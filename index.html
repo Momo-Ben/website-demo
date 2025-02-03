@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Add this in the <head> section of your index.html -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'></svg>">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+
+
+        <div id="menu" class="menu">
+            <div class="menu-item learn-new" onclick="showNiveau()">
+                <div class="icon">📚</div>
+                Learn New Words
+            </div>
+            <div class="menu-item classic-review" onclick="showMode('classic')">
+                <div class="icon">🔄</div>
+                Classic Review
+            </div>
+            <div class="menu-item ignored-words" onclick="showMode('ignored')">
+                <div class="icon">🚫</div>
+                Ignored Words
+            </div>
+            <div class="menu-item difficult-words" onclick="showMode('difficult')">
+                <div class="icon">🎯</div>
+                Difficult Words
+            </div>
+        </div>
+        
+        <!--Yellow-->
+        <div id="reviewContainer" class="review-container">
+
+            <button class="back-button" onclick="saveData(cards);showMenu()">← Back</button>
+            <button class="ignore-button" onclick=" toggleIgnore()">Ignore Word</button>
+            <div class="word-display" id="currentWord" style="background-color: blue;"></div>
+            <div class="options-grid" id="optionsBigContainer" style="background-color: greenyellow;">
+                    <!-- add 4 divs in a 2x2 grid -->
+                <!--
+                    <div class="option" id="option0" style="background-color: orange;">short</div>
+                    <div class="option" id="option1" style="background-color: orange;">long word</div>
+                    <div class="option" id="option2" style="background-color: orange;">option2</div>
+                    <div class="option" id="option3" style="background-color: orange;">option3</div>
+                -->
+            </div>
+        </div>
+
+        <div id="niveauContainer" class="niveau-container">
+            <button class="back-button" onclick="showMenu()">← Back to Menu</button>
+            <div class="niveau-grid" id="niveauGrid">
+                <!-- Niveaus will be added here dynamically -->
+            </div>
+        </div>
+        
+        <div id="niveauWordsContainer" class="niveau-words-container">
+            <div class="niveau-header">
+                <button class="back-button" onclick="showNiveau()">← Back to Niveaus</button>
+                <h2 id="niveauTitle"></h2>
+            </div>
+            <div id="wordList" class="word-list">
+                <!-- Words will be added here dynamically -->
+            </div>
+        </div>
+
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,6582 @@
+[
+  {
+    "term": "posjekotina",
+    "definition": "cut",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-02-02T19:13:12.080Z",
+    "nextReview": "2025-02-03T01:13:12.080Z",
+    "ignored": false
+  },
+  {
+    "term": "opeklina",
+    "definition": "burn",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-02-02T19:12:10.748Z",
+    "nextReview": "2025-02-03T01:12:10.748Z",
+    "ignored": false
+  },
+  {
+    "term": "ugriz",
+    "definition": "bite",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-02-02T19:12:15.020Z",
+    "nextReview": "2025-02-03T01:12:15.020Z",
+    "ignored": false
+  },
+  {
+    "term": "modrica",
+    "definition": "bruise",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-02-02T19:13:08.232Z",
+    "nextReview": "2025-02-03T01:13:08.232Z",
+    "ignored": false
+  },
+  {
+    "term": "kvrga",
+    "definition": "bump",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-02-02T19:13:16.147Z",
+    "nextReview": "2025-02-03T01:13:16.147Z",
+    "ignored": false
+  },
+  {
+    "term": "za\u010dini",
+    "definition": "spices",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.274Z",
+    "nextReview": "2025-01-29T18:13:46.274Z",
+    "ignored": true
+  },
+  {
+    "term": "kopar",
+    "definition": "dill",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-02-02T19:15:11.183Z",
+    "nextReview": "2025-02-03T01:15:11.183Z",
+    "ignored": false
+  },
+  {
+    "term": "per\u0161in",
+    "definition": "parsley",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-02-02T19:13:38.390Z",
+    "nextReview": "2025-02-03T01:13:38.390Z",
+    "ignored": false
+  },
+  {
+    "term": "ke\u010dap",
+    "definition": "ketchup",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-02-02T19:13:42.277Z",
+    "nextReview": "2025-02-03T01:13:42.277Z",
+    "ignored": false
+  },
+  {
+    "term": "ocat",
+    "definition": "vinegar",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-02-02T19:13:46.237Z",
+    "nextReview": "2025-02-03T01:13:46.237Z",
+    "ignored": false
+  },
+  {
+    "term": "sljezov kola\u010di\u0107",
+    "definition": "marshmallow cookie",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-02-02T19:13:53.745Z",
+    "nextReview": "2025-02-03T01:13:53.745Z",
+    "ignored": false
+  },
+  {
+    "term": "\u010dokoladna plo\u010dica",
+    "definition": "chocolate bar",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-02-02T19:13:58.240Z",
+    "nextReview": "2025-02-03T01:13:58.240Z",
+    "ignored": false
+  },
+  {
+    "term": "\u017evaka\u0107a guma",
+    "definition": "chewing gum",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-02-02T19:14:01.991Z",
+    "nextReview": "2025-02-03T01:14:01.991Z",
+    "ignored": false
+  },
+  {
+    "term": "kuhan",
+    "definition": "cooked",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-02-02T19:15:14.591Z",
+    "nextReview": "2025-02-03T01:15:14.591Z",
+    "ignored": false
+  },
+  {
+    "term": "suh",
+    "definition": "dry",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-02-02T19:15:17.803Z",
+    "nextReview": "2025-02-03T01:15:17.803Z",
+    "ignored": false
+  },
+  {
+    "term": "kakao",
+    "definition": "cocoa",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-02-02T00:03:55.620Z",
+    "nextReview": "2025-02-02T06:03:55.620Z",
+    "ignored": false
+  },
+  {
+    "term": "zeleni \u010daj",
+    "definition": "green tea",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.277Z",
+    "nextReview": "2025-01-29T18:13:46.277Z",
+    "ignored": true
+  },
+  {
+    "term": "led",
+    "definition": "ice",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-02-02T19:17:44.399Z",
+    "nextReview": "2025-02-03T01:17:44.399Z",
+    "ignored": false
+  },
+  {
+    "term": "hobi",
+    "definition": "hobby",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Leisure Time",
+    "lastReviewed": "2025-02-02T19:17:47.466Z",
+    "nextReview": "2025-02-03T01:17:47.466Z",
+    "ignored": false
+  },
+  {
+    "term": "zabava",
+    "definition": "fun",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Leisure Time",
+    "lastReviewed": "2025-02-02T19:17:50.390Z",
+    "nextReview": "2025-02-03T01:17:50.390Z",
+    "ignored": false
+  },
+  {
+    "term": "pletenje",
+    "definition": "knitting",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Leisure Time",
+    "lastReviewed": "2025-02-02T19:22:17.047Z",
+    "nextReview": "2025-02-03T01:22:17.047Z",
+    "ignored": false
+  },
+  {
+    "term": "daskanje",
+    "definition": "surfing",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-02-02T19:23:16.778Z",
+    "nextReview": "2025-02-03T01:23:16.778Z",
+    "ignored": false
+  },
+  {
+    "term": "tura",
+    "definition": "tour",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Leisure Time",
+    "lastReviewed": "2025-02-02T19:23:26.704Z",
+    "nextReview": "2025-02-03T01:23:26.704Z",
+    "ignored": false
+  },
+  {
+    "term": "dvorac od pijeska",
+    "definition": "sand castle",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Leisure Time",
+    "lastReviewed": "2025-01-28T18:13:46.279Z",
+    "nextReview": "2025-01-29T18:13:46.279Z",
+    "ignored": true
+  },
+  {
+    "term": "logorska vatra",
+    "definition": "campfire",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Leisure Time",
+    "lastReviewed": "2025-02-02T19:40:07.739Z",
+    "nextReview": "2025-02-03T01:40:07.739Z",
+    "ignored": false
+  },
+  {
+    "term": "\u0161kolica",
+    "definition": "school",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Education",
+    "lastReviewed": "2025-02-02T19:34:54.514Z",
+    "nextReview": "2025-02-03T01:34:54.514Z",
+    "ignored": false
+  },
+  {
+    "term": "kri\u017ealjka",
+    "definition": "crossword puzzle",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Leisure Time",
+    "lastReviewed": "2025-02-02T19:40:25.498Z",
+    "nextReview": "2025-02-03T01:40:25.498Z",
+    "ignored": false
+  },
+  {
+    "term": "kri\u017ei\u0107-kru\u017ei\u0107",
+    "definition": "cross-circle",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Leisure Time",
+    "lastReviewed": "2025-02-02T19:45:00.346Z",
+    "nextReview": "2025-02-03T01:45:00.346Z",
+    "ignored": false
+  },
+  {
+    "term": "igra na plo\u0107i",
+    "definition": "board game",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Leisure Time",
+    "lastReviewed": "2025-02-02T19:45:14.257Z",
+    "nextReview": "2025-02-03T01:45:14.257Z",
+    "ignored": false
+  },
+  {
+    "term": "vrtuljak",
+    "definition": "carousel",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Leisure Time",
+    "lastReviewed": "2025-02-02T19:45:23.023Z",
+    "nextReview": "2025-02-03T01:45:23.023Z",
+    "ignored": false
+  },
+  {
+    "term": "vlaki\u0107 smrti",
+    "definition": "death train",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Transportation",
+    "lastReviewed": "2025-02-02T19:54:57.441Z",
+    "nextReview": "2025-02-03T01:54:57.441Z",
+    "ignored": false
+  },
+  {
+    "term": "skijanje",
+    "definition": "skiing",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-02-02T19:55:05.136Z",
+    "nextReview": "2025-02-03T01:55:05.136Z",
+    "ignored": false
+  },
+  {
+    "term": "klizanje",
+    "definition": "skating",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-02-02T19:55:09.665Z",
+    "nextReview": "2025-02-03T01:55:09.665Z",
+    "ignored": false
+  },
+  {
+    "term": "hokej na ledu",
+    "definition": "ice hockey",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-02-02T19:55:14.358Z",
+    "nextReview": "2025-02-03T01:55:14.358Z",
+    "ignored": false
+  },
+  {
+    "term": "umjetni\u010dko klizanje",
+    "definition": "figure skating",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-02-02T19:55:20.896Z",
+    "nextReview": "2025-02-03T01:55:20.896Z",
+    "ignored": false
+  },
+  {
+    "term": "ragbi",
+    "definition": "rugby",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-02-02T19:55:25.919Z",
+    "nextReview": "2025-02-03T01:55:25.919Z",
+    "ignored": false
+  },
+  {
+    "term": "bejzbol",
+    "definition": "baseball",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-02-02T19:55:30.736Z",
+    "nextReview": "2025-02-03T01:55:30.736Z",
+    "ignored": false
+  },
+  {
+    "term": "rukomet",
+    "definition": "handball",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-02-02T19:55:35.228Z",
+    "nextReview": "2025-02-03T01:55:35.228Z",
+    "ignored": false
+  },
+  {
+    "term": "biciklizam",
+    "definition": "cycling",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-01-28T18:13:46.291Z",
+    "nextReview": "2025-01-29T18:13:46.291Z",
+    "ignored": true
+  },
+  {
+    "term": "jahanje",
+    "definition": "riding",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-02-03T12:28:26.295Z",
+    "nextReview": "2025-02-03T18:28:26.295Z",
+    "ignored": false
+  },
+  {
+    "term": "gimnastika",
+    "definition": "gymnastics",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-02-02T19:55:44.722Z",
+    "nextReview": "2025-02-03T01:55:44.722Z",
+    "ignored": false
+  },
+  {
+    "term": "iskorak",
+    "definition": "a step forward",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-02-02T19:55:52.288Z",
+    "nextReview": "2025-02-03T01:55:52.288Z",
+    "ignored": false
+  },
+  {
+    "term": "sklek",
+    "definition": "push up",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-02-02T19:56:01.602Z",
+    "nextReview": "2025-02-03T01:56:01.602Z",
+    "ignored": false
+  },
+  {
+    "term": "aerobik",
+    "definition": "aerobics",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-02-02T19:56:05.146Z",
+    "nextReview": "2025-02-03T01:56:05.146Z",
+    "ignored": false
+  },
+  {
+    "term": "zvi\u017edaljke",
+    "definition": "whistles",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.293Z",
+    "nextReview": "2025-01-29T18:13:46.293Z",
+    "ignored": true
+  },
+  {
+    "term": "skateboard",
+    "definition": "skateboard",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-01-28T18:13:46.293Z",
+    "nextReview": "2025-01-29T18:13:46.293Z",
+    "ignored": true
+  },
+  {
+    "term": "stadion",
+    "definition": "stadium",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-02-02T19:56:39.375Z",
+    "nextReview": "2025-02-03T01:56:39.375Z",
+    "ignored": false
+  },
+  {
+    "term": "hotel",
+    "definition": "hotel",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-02-02T19:56:42.621Z",
+    "nextReview": "2025-02-03T01:56:42.621Z",
+    "ignored": false
+  },
+  {
+    "term": "motel",
+    "definition": "motel",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-02-02T19:56:46.325Z",
+    "nextReview": "2025-02-03T01:56:46.325Z",
+    "ignored": false
+  },
+  {
+    "term": "kafi\u0107",
+    "definition": "coffee shop",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-02-02T19:56:52.831Z",
+    "nextReview": "2025-02-03T01:56:52.831Z",
+    "ignored": false
+  },
+  {
+    "term": "pizzeria",
+    "definition": "pizzeria",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.295Z",
+    "nextReview": "2025-01-29T18:13:46.295Z",
+    "ignored": true
+  },
+  {
+    "term": "poslu\u017eavnik",
+    "definition": "tray",
+    "level": 1,
+    "difficulty": 1,
+    "niveau": "House",
+    "lastReviewed": "2025-02-03T12:34:22.147Z",
+    "nextReview": "2025-02-03T15:34:22.147Z",
+    "ignored": false
+  },
+  {
+    "term": "posluziti",
+    "definition": "serve",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-02-02T19:58:28.275Z",
+    "nextReview": "2025-02-03T01:58:28.275Z",
+    "ignored": false
+  },
+  {
+    "term": "cirkus",
+    "definition": "circus",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Leisure Time",
+    "lastReviewed": "2025-01-28T18:13:46.296Z",
+    "nextReview": "2025-01-29T18:13:46.296Z",
+    "ignored": true
+  },
+  {
+    "term": "vodoskok",
+    "definition": "water fountain",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "City",
+    "lastReviewed": "2025-02-03T14:00:16.810Z",
+    "nextReview": "2025-02-03T20:00:16.810Z",
+    "ignored": false
+  },
+  {
+    "term": "galerija",
+    "definition": "gallery",
+    "level": 6,
+    "difficulty": 0,
+    "niveau": "Culture",
+    "lastReviewed": "2025-02-02T19:58:34.109Z",
+    "nextReview": "2025-02-06T19:58:34.109Z",
+    "ignored": false
+  },
+  {
+    "term": "utvrda",
+    "definition": "fortress",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "City",
+    "lastReviewed": "2025-02-02T19:58:38.639Z",
+    "nextReview": "2025-02-03T01:58:38.639Z",
+    "ignored": false
+  },
+  {
+    "term": "gra\u0111evina",
+    "definition": "building",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "City",
+    "lastReviewed": "2025-02-02T19:58:42.232Z",
+    "nextReview": "2025-02-03T01:58:42.232Z",
+    "ignored": false
+  },
+  {
+    "term": "opeka",
+    "definition": "brick",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-02-02T20:00:04.525Z",
+    "nextReview": "2025-02-03T02:00:04.525Z",
+    "ignored": false
+  },
+  {
+    "term": "stup",
+    "definition": "column",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-02-02T21:43:22.206Z",
+    "nextReview": "2025-02-03T03:43:22.206Z",
+    "ignored": false
+  },
+  {
+    "term": "neboder",
+    "definition": "skyscraper",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "City",
+    "lastReviewed": "2025-01-30T19:09:51.288Z",
+    "nextReview": "2025-01-31T01:09:51.288Z",
+    "ignored": false
+  },
+  {
+    "term": "graditi",
+    "definition": "build",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-02-02T21:43:26.237Z",
+    "nextReview": "2025-02-03T03:43:26.237Z",
+    "ignored": false
+  },
+  {
+    "term": "nogostup",
+    "definition": "walkway",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "City",
+    "lastReviewed": "2025-02-02T00:03:26.810Z",
+    "nextReview": "2025-02-02T06:03:26.810Z",
+    "ignored": false
+  },
+  {
+    "term": "oblast",
+    "definition": "field",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-02-02T21:43:37.691Z",
+    "nextReview": "2025-02-03T03:43:37.691Z",
+    "ignored": false
+  },
+  {
+    "term": "\u017eeljezni\u010dka pruga",
+    "definition": "railway",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Transportation",
+    "lastReviewed": "2025-02-02T21:44:50.317Z",
+    "nextReview": "2025-02-03T03:44:50.317Z",
+    "ignored": false
+  },
+  {
+    "term": "polijetati",
+    "definition": "take off",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-02-03T16:15:22.199Z",
+    "nextReview": "2025-02-03T22:15:22.199Z",
+    "ignored": false
+  },
+  {
+    "term": "trajekt",
+    "definition": "ferry",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Transportation",
+    "lastReviewed": "2025-02-03T16:16:12.939Z",
+    "nextReview": "2025-02-03T22:16:12.939Z",
+    "ignored": false
+  },
+  {
+    "term": "podmornica",
+    "definition": "submarine",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Transportation",
+    "lastReviewed": "2025-02-03T16:16:28.145Z",
+    "nextReview": "2025-02-03T22:16:28.145Z",
+    "ignored": false
+  },
+  {
+    "term": "kota\u010d",
+    "definition": "wheel",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Transportation",
+    "lastReviewed": "2025-02-03T16:16:43.422Z",
+    "nextReview": "2025-02-03T22:16:43.422Z",
+    "ignored": false
+  },
+  {
+    "term": "reklama",
+    "definition": "ad",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Communication",
+    "lastReviewed": "2025-02-03T16:42:52.379Z",
+    "nextReview": "2025-02-03T22:42:52.379Z",
+    "ignored": false
+  },
+  {
+    "term": "smje\u0161ko",
+    "definition": "smiley",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Communication",
+    "lastReviewed": "2025-02-03T16:43:01.043Z",
+    "nextReview": "2025-02-03T22:43:01.043Z",
+    "ignored": false
+  },
+  {
+    "term": "tisak",
+    "definition": "press",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Communication",
+    "lastReviewed": "2025-02-03T16:57:06.639Z",
+    "nextReview": "2025-02-03T22:57:06.639Z",
+    "ignored": false
+  },
+  {
+    "term": "\u010dlanak",
+    "definition": "article",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Communication",
+    "lastReviewed": "2025-02-03T16:57:15.161Z",
+    "nextReview": "2025-02-03T22:57:15.161Z",
+    "ignored": false
+  },
+  {
+    "term": "omotnica",
+    "definition": "envelope",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Communication",
+    "lastReviewed": "2025-02-03T16:57:27.099Z",
+    "nextReview": "2025-02-03T22:57:27.099Z",
+    "ignored": false
+  },
+  {
+    "term": "nesre\u0107a",
+    "definition": "accident",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Security",
+    "lastReviewed": "2025-02-03T16:57:31.551Z",
+    "nextReview": "2025-02-03T22:57:31.551Z",
+    "ignored": false
+  },
+  {
+    "term": "kola hitne pomo\u0107i",
+    "definition": "ambulance",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Transportation",
+    "lastReviewed": "2025-02-03T16:58:45.193Z",
+    "nextReview": "2025-02-03T22:58:45.193Z",
+    "ignored": false
+  },
+  {
+    "term": "kazniti",
+    "definition": "punish",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-02-03T16:58:52.354Z",
+    "nextReview": "2025-02-03T22:58:52.354Z",
+    "ignored": false
+  },
+  {
+    "term": "vremenski uvijek",
+    "definition": "temporally always",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-02-03T16:58:57.101Z",
+    "nextReview": "2025-02-03T22:58:57.101Z",
+    "ignored": false
+  },
+  {
+    "term": "povjetara\u0107",
+    "definition": "sea breeze",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Environment",
+    "lastReviewed": "2025-02-03T16:59:09.047Z",
+    "nextReview": "2025-02-03T22:59:09.047Z",
+    "ignored": false
+  },
+  {
+    "term": "rosa",
+    "definition": "dew",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Environment",
+    "lastReviewed": "2025-02-03T16:59:15.430Z",
+    "nextReview": "2025-02-03T22:59:15.430Z",
+    "ignored": false
+  },
+  {
+    "term": "tuca",
+    "definition": "beat",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-02-03T16:59:20.493Z",
+    "nextReview": "2025-02-03T22:59:20.493Z",
+    "ignored": false
+  },
+  {
+    "term": "snje\u017ena me\u0107ava",
+    "definition": "snow blizzard",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Environment",
+    "lastReviewed": "2025-01-28T18:13:46.312Z",
+    "nextReview": "2025-01-29T18:13:46.312Z",
+    "ignored": true
+  },
+  {
+    "term": "dolina",
+    "definition": "valley",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Environment",
+    "lastReviewed": "2025-01-30T19:09:56.423Z",
+    "nextReview": "2025-01-31T01:09:56.423Z",
+    "ignored": false
+  },
+  {
+    "term": "morska obala",
+    "definition": "seashore",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Environment",
+    "lastReviewed": "2025-02-03T16:59:49.061Z",
+    "nextReview": "2025-02-03T22:59:49.061Z",
+    "ignored": false
+  },
+  {
+    "term": "zaljev",
+    "definition": "bay",
+    "level": 1,
+    "difficulty": 1,
+    "niveau": "Environment",
+    "lastReviewed": "2025-02-03T17:01:00.131Z",
+    "nextReview": "2025-02-03T20:01:00.131Z",
+    "ignored": false
+  },
+  {
+    "term": "tok",
+    "definition": "flow",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-02-03T17:04:16.203Z",
+    "nextReview": "2025-02-03T23:04:16.203Z",
+    "ignored": false
+  },
+  {
+    "term": "\u017eeljezo",
+    "definition": "iron",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-02-03T17:03:44.210Z",
+    "nextReview": "2025-02-03T23:03:44.210Z",
+    "ignored": false
+  },
+  {
+    "term": "staklo",
+    "definition": "glass",
+    "level": 1,
+    "difficulty": 1,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-02-03T17:04:06.342Z",
+    "nextReview": "2025-02-03T20:04:06.342Z",
+    "ignored": false
+  },
+  {
+    "term": "ugljen",
+    "definition": "coal",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-02-03T17:04:19.657Z",
+    "nextReview": "2025-02-03T23:04:19.657Z",
+    "ignored": false
+  },
+  {
+    "term": "jela",
+    "definition": "ate",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-02-03T17:04:24.817Z",
+    "nextReview": "2025-02-03T23:04:24.817Z",
+    "ignored": false
+  },
+  {
+    "term": "topola",
+    "definition": "poplar",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Plants",
+    "lastReviewed": "2025-02-03T17:04:32.514Z",
+    "nextReview": "2025-02-03T23:04:32.514Z",
+    "ignored": false
+  },
+  {
+    "term": "vrba",
+    "definition": "willow",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Plants",
+    "lastReviewed": "2025-01-28T18:13:46.319Z",
+    "nextReview": "2025-01-29T18:13:46.319Z",
+    "ignored": true
+  },
+  {
+    "term": "grana",
+    "definition": "branch",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Plants",
+    "lastReviewed": "2025-02-03T17:04:54.949Z",
+    "nextReview": "2025-02-03T23:04:54.949Z",
+    "ignored": false
+  },
+  {
+    "term": "grm",
+    "definition": "bush",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Plants",
+    "lastReviewed": "2025-01-28T18:13:46.321Z",
+    "nextReview": "2025-01-29T18:13:46.321Z",
+    "ignored": true
+  },
+  {
+    "term": "grm jorgovana",
+    "definition": "lilac bush",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Plants",
+    "lastReviewed": "2025-02-03T17:05:21.169Z",
+    "nextReview": "2025-02-03T23:05:21.169Z",
+    "ignored": false
+  },
+  {
+    "term": "ljiljan",
+    "definition": "lily",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Plants",
+    "lastReviewed": "2025-01-30T20:21:55.937Z",
+    "nextReview": "2025-01-31T02:21:55.937Z",
+    "ignored": false
+  },
+  {
+    "term": "perunika",
+    "definition": "iris",
+    "level": 1,
+    "difficulty": 1,
+    "niveau": "Plants",
+    "lastReviewed": "2025-02-03T17:10:17.344Z",
+    "nextReview": "2025-02-03T20:10:17.344Z",
+    "ignored": false
+  },
+  {
+    "term": "orhideja",
+    "definition": "orchid",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Plants",
+    "lastReviewed": "2025-01-28T18:13:46.324Z",
+    "nextReview": "2025-01-29T18:13:46.324Z",
+    "ignored": true
+  },
+  {
+    "term": "masla\u010dak",
+    "definition": "dandelion",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Plants",
+    "lastReviewed": "2025-02-03T17:11:51.847Z",
+    "nextReview": "2025-02-03T23:11:51.847Z",
+    "ignored": false
+  },
+  {
+    "term": "mak",
+    "definition": "poppy",
+    "level": 1,
+    "difficulty": 1,
+    "niveau": "Plants",
+    "lastReviewed": "2025-02-03T17:11:59.605Z",
+    "nextReview": "2025-02-03T20:11:59.605Z",
+    "ignored": false
+  },
+  {
+    "term": "biljka",
+    "definition": "plant",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Plants",
+    "lastReviewed": "2025-02-03T17:12:13.915Z",
+    "nextReview": "2025-02-03T23:12:13.915Z",
+    "ignored": false
+  },
+  {
+    "term": "mahovina",
+    "definition": "moss",
+    "level": 1,
+    "difficulty": 1,
+    "niveau": "Plants",
+    "lastReviewed": "2025-02-03T17:12:56.707Z",
+    "nextReview": "2025-02-03T20:12:56.707Z",
+    "ignored": false
+  },
+  {
+    "term": "latica",
+    "definition": "petal",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Plants",
+    "lastReviewed": "2025-01-28T18:13:46.326Z",
+    "nextReview": "2025-01-29T18:13:46.326Z",
+    "ignored": true
+  },
+  {
+    "term": "stabljika",
+    "definition": "stem",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Plants",
+    "lastReviewed": "2025-01-28T18:13:46.326Z",
+    "nextReview": "2025-01-29T18:13:46.326Z",
+    "ignored": true
+  },
+  {
+    "term": "korijen",
+    "definition": "root",
+    "level": 1,
+    "difficulty": 1,
+    "niveau": "Plants",
+    "lastReviewed": "2025-02-03T17:14:18.638Z",
+    "nextReview": "2025-02-03T20:14:18.638Z",
+    "ignored": false
+  },
+  {
+    "term": "trn",
+    "definition": "thorn",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Plants",
+    "lastReviewed": "2025-01-28T18:13:46.326Z",
+    "nextReview": "2025-01-29T18:13:46.326Z",
+    "ignored": false
+  },
+  {
+    "term": "sijeno",
+    "definition": "hay",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Plants",
+    "lastReviewed": "2025-01-28T18:13:46.327Z",
+    "nextReview": "2025-01-29T18:13:46.327Z",
+    "ignored": false
+  },
+  {
+    "term": "tlo",
+    "definition": "ground",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Environment",
+    "lastReviewed": "2025-01-28T18:13:46.327Z",
+    "nextReview": "2025-01-29T18:13:46.327Z",
+    "ignored": false
+  },
+  {
+    "term": "poljetati",
+    "definition": "take off",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.327Z",
+    "nextReview": "2025-01-29T18:13:46.327Z",
+    "ignored": false
+  },
+  {
+    "term": "srp",
+    "definition": "sick",
+    "level": 1,
+    "difficulty": 1,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-30T20:21:50.012Z",
+    "nextReview": "2025-01-30T23:21:50.012Z",
+    "ignored": false
+  },
+  {
+    "term": "urod",
+    "definition": "crop",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Plants",
+    "lastReviewed": "2025-01-28T18:13:46.328Z",
+    "nextReview": "2025-01-29T18:13:46.328Z",
+    "ignored": false
+  },
+  {
+    "term": "ubrati",
+    "definition": "pick",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.328Z",
+    "nextReview": "2025-01-29T18:13:46.328Z",
+    "ignored": false
+  },
+  {
+    "term": "hr\u010dak",
+    "definition": "hamster",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.328Z",
+    "nextReview": "2025-01-29T18:13:46.328Z",
+    "ignored": false
+  },
+  {
+    "term": "\u0161takor",
+    "definition": "rat",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.328Z",
+    "nextReview": "2025-01-29T18:13:46.328Z",
+    "ignored": false
+  },
+  {
+    "term": "golub",
+    "definition": "pigeon",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.329Z",
+    "nextReview": "2025-01-29T18:13:46.329Z",
+    "ignored": false
+  },
+  {
+    "term": "lastavica",
+    "definition": "swallow",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.329Z",
+    "nextReview": "2025-01-29T18:13:46.329Z",
+    "ignored": false
+  },
+  {
+    "term": "prepelica",
+    "definition": "quail",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.329Z",
+    "nextReview": "2025-01-29T18:13:46.329Z",
+    "ignored": false
+  },
+  {
+    "term": "jesetra",
+    "definition": "sturgeon",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.330Z",
+    "nextReview": "2025-01-29T18:13:46.330Z",
+    "ignored": false
+  },
+  {
+    "term": "iguana",
+    "definition": "iguana",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-30T22:41:05.791Z",
+    "nextReview": "2025-01-31T04:41:05.791Z",
+    "ignored": false
+  },
+  {
+    "term": "pu\u017e",
+    "definition": "snail",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.330Z",
+    "nextReview": "2025-01-29T18:13:46.330Z",
+    "ignored": false
+  },
+  {
+    "term": "bubamara",
+    "definition": "ladybug",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.330Z",
+    "nextReview": "2025-01-29T18:13:46.330Z",
+    "ignored": false
+  },
+  {
+    "term": "osa",
+    "definition": "axis",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.331Z",
+    "nextReview": "2025-01-29T18:13:46.331Z",
+    "ignored": false
+  },
+  {
+    "term": "jare",
+    "definition": "kid",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.331Z",
+    "nextReview": "2025-01-29T18:13:46.331Z",
+    "ignored": false
+  },
+  {
+    "term": "kljun",
+    "definition": "beak",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.331Z",
+    "nextReview": "2025-01-29T18:13:46.331Z",
+    "ignored": false
+  },
+  {
+    "term": "rep",
+    "definition": "tail",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.332Z",
+    "nextReview": "2025-01-29T18:13:46.332Z",
+    "ignored": false
+  },
+  {
+    "term": "krilo",
+    "definition": "wing",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.332Z",
+    "nextReview": "2025-01-29T18:13:46.332Z",
+    "ignored": false
+  },
+  {
+    "term": "obor",
+    "definition": "pen",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.333Z",
+    "nextReview": "2025-01-29T18:13:46.333Z",
+    "ignored": false
+  },
+  {
+    "term": "mjaukati",
+    "definition": "to meow",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.333Z",
+    "nextReview": "2025-01-29T18:13:46.333Z",
+    "ignored": false
+  },
+  {
+    "term": "presti",
+    "definition": "purr",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.334Z",
+    "nextReview": "2025-01-29T18:13:46.334Z",
+    "ignored": false
+  },
+  {
+    "term": "kvakati",
+    "definition": "to croak",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.335Z",
+    "nextReview": "2025-01-29T18:13:46.335Z",
+    "ignored": false
+  },
+  {
+    "term": "debeo",
+    "definition": "thick",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-02-02T00:02:39.322Z",
+    "nextReview": "2025-02-02T06:02:39.322Z",
+    "ignored": false
+  },
+  {
+    "term": "tanak",
+    "definition": "thin",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.337Z",
+    "nextReview": "2025-01-29T18:13:46.337Z",
+    "ignored": false
+  },
+  {
+    "term": "trokut",
+    "definition": "triangle",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.338Z",
+    "nextReview": "2025-01-29T18:13:46.338Z",
+    "ignored": false
+  },
+  {
+    "term": "uspjeh",
+    "definition": "success",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.340Z",
+    "nextReview": "2025-01-29T18:13:46.340Z",
+    "ignored": false
+  },
+  {
+    "term": "gurati",
+    "definition": "push",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.341Z",
+    "nextReview": "2025-01-29T18:13:46.341Z",
+    "ignored": false
+  },
+  {
+    "term": "pokazati",
+    "definition": "show",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.342Z",
+    "nextReview": "2025-01-29T18:13:46.342Z",
+    "ignored": false
+  },
+  {
+    "term": "odabrati",
+    "definition": "select",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.342Z",
+    "nextReview": "2025-01-29T18:13:46.342Z",
+    "ignored": false
+  },
+  {
+    "term": "prevesti",
+    "definition": "translate",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.342Z",
+    "nextReview": "2025-01-29T18:13:46.342Z",
+    "ignored": false
+  },
+  {
+    "term": "usporediti",
+    "definition": "compare",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.343Z",
+    "nextReview": "2025-01-29T18:13:46.343Z",
+    "ignored": false
+  },
+  {
+    "term": "ponuditi",
+    "definition": "offer",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.343Z",
+    "nextReview": "2025-01-29T18:13:46.343Z",
+    "ignored": false
+  },
+  {
+    "term": "ispri\u010dati se",
+    "definition": "apologize",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.343Z",
+    "nextReview": "2025-01-29T18:13:46.343Z",
+    "ignored": false
+  },
+  {
+    "term": "mekan",
+    "definition": "soft",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.343Z",
+    "nextReview": "2025-01-29T18:13:46.343Z",
+    "ignored": false
+  },
+  {
+    "term": "sna\u017ean",
+    "definition": "powerful",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.344Z",
+    "nextReview": "2025-01-29T18:13:46.344Z",
+    "ignored": false
+  },
+  {
+    "term": "donekle",
+    "definition": "to some extent",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.344Z",
+    "nextReview": "2025-01-29T18:13:46.344Z",
+    "ignored": false
+  },
+  {
+    "term": "dovoljno",
+    "definition": "enough",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.344Z",
+    "nextReview": "2025-01-29T18:13:46.344Z",
+    "ignored": false
+  },
+  {
+    "term": "ga",
+    "definition": "him",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Pronouns",
+    "lastReviewed": "2025-01-28T18:13:46.344Z",
+    "nextReview": "2025-01-29T18:13:46.344Z",
+    "ignored": false
+  },
+  {
+    "term": "njima",
+    "definition": "them",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Pronouns",
+    "lastReviewed": "2025-01-28T18:13:46.345Z",
+    "nextReview": "2025-01-29T18:13:46.345Z",
+    "ignored": false
+  },
+  {
+    "term": "prema",
+    "definition": "according to",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.345Z",
+    "nextReview": "2025-01-29T18:13:46.345Z",
+    "ignored": false
+  },
+  {
+    "term": "ispred",
+    "definition": "front",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.345Z",
+    "nextReview": "2025-01-29T18:13:46.345Z",
+    "ignored": false
+  },
+  {
+    "term": "nijedan",
+    "definition": "no",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.345Z",
+    "nextReview": "2025-01-29T18:13:46.345Z",
+    "ignored": false
+  },
+  {
+    "term": "uskli\u010dnik",
+    "definition": "exclamation mark",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-02-02T00:03:32.076Z",
+    "nextReview": "2025-02-02T06:03:32.076Z",
+    "ignored": false
+  },
+  {
+    "term": "upitnik",
+    "definition": "questionnaire",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.346Z",
+    "nextReview": "2025-01-29T18:13:46.346Z",
+    "ignored": false
+  },
+  {
+    "term": "blizanci",
+    "definition": "Gemini",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.346Z",
+    "nextReview": "2025-01-29T18:13:46.346Z",
+    "ignored": false
+  },
+  {
+    "term": "tip",
+    "definition": "type",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.346Z",
+    "nextReview": "2025-01-29T18:13:46.346Z",
+    "ignored": false
+  },
+  {
+    "term": "poznanik",
+    "definition": "acquaintance",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.347Z",
+    "nextReview": "2025-01-29T18:13:46.347Z",
+    "ignored": false
+  },
+  {
+    "term": "predstaviti",
+    "definition": "present",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.347Z",
+    "nextReview": "2025-01-29T18:13:46.347Z",
+    "ignored": false
+  },
+  {
+    "term": "ugled",
+    "definition": "reputation",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.348Z",
+    "nextReview": "2025-01-29T18:13:46.348Z",
+    "ignored": false
+  },
+  {
+    "term": "nadimak",
+    "definition": "nickname",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.348Z",
+    "nextReview": "2025-01-29T18:13:46.348Z",
+    "ignored": false
+  },
+  {
+    "term": "skromna",
+    "definition": "modest",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.349Z",
+    "nextReview": "2025-01-29T18:13:46.349Z",
+    "ignored": false
+  },
+  {
+    "term": "mudar",
+    "definition": "wise",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.349Z",
+    "nextReview": "2025-01-29T18:13:46.349Z",
+    "ignored": false
+  },
+  {
+    "term": "ozbiljan",
+    "definition": "serious",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.349Z",
+    "nextReview": "2025-01-29T18:13:46.349Z",
+    "ignored": false
+  },
+  {
+    "term": "budalast",
+    "definition": "foolish",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.350Z",
+    "nextReview": "2025-01-29T18:13:46.350Z",
+    "ignored": false
+  },
+  {
+    "term": "ravnodusan",
+    "definition": "uninterested",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.350Z",
+    "nextReview": "2025-01-29T18:13:46.350Z",
+    "ignored": false
+  },
+  {
+    "term": "neiskren",
+    "definition": "insincere",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.351Z",
+    "nextReview": "2025-01-29T18:13:46.351Z",
+    "ignored": false
+  },
+  {
+    "term": "pristojna",
+    "definition": "decent",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.351Z",
+    "nextReview": "2025-01-29T18:13:46.351Z",
+    "ignored": false
+  },
+  {
+    "term": "usamljen",
+    "definition": "lonely",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.351Z",
+    "nextReview": "2025-01-29T18:13:46.351Z",
+    "ignored": false
+  },
+  {
+    "term": "napastovanje",
+    "definition": "harassment",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.351Z",
+    "nextReview": "2025-01-29T18:13:46.351Z",
+    "ignored": false
+  },
+  {
+    "term": "omiljen",
+    "definition": "favorite",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.352Z",
+    "nextReview": "2025-01-29T18:13:46.352Z",
+    "ignored": false
+  },
+  {
+    "term": "u\u017easan",
+    "definition": "terrible",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.352Z",
+    "nextReview": "2025-01-29T18:13:46.352Z",
+    "ignored": false
+  },
+  {
+    "term": "zanimljiv",
+    "definition": "interesting",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.352Z",
+    "nextReview": "2025-01-29T18:13:46.352Z",
+    "ignored": false
+  },
+  {
+    "term": "osobni",
+    "definition": "personal",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.353Z",
+    "nextReview": "2025-01-29T18:13:46.353Z",
+    "ignored": false
+  },
+  {
+    "term": "osveta",
+    "definition": "revenge",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.353Z",
+    "nextReview": "2025-01-29T18:13:46.353Z",
+    "ignored": false
+  },
+  {
+    "term": "struk",
+    "definition": "waist",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.353Z",
+    "nextReview": "2025-01-29T18:13:46.353Z",
+    "ignored": false
+  },
+  {
+    "term": "mjehur",
+    "definition": "bladder",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.353Z",
+    "nextReview": "2025-01-29T18:13:46.353Z",
+    "ignored": false
+  },
+  {
+    "term": "\u017eivac",
+    "definition": "nerve",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.353Z",
+    "nextReview": "2025-01-29T18:13:46.353Z",
+    "ignored": false
+  },
+  {
+    "term": "ugristi",
+    "definition": "bite",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-30T22:41:11.846Z",
+    "nextReview": "2025-01-31T04:41:11.846Z",
+    "ignored": false
+  },
+  {
+    "term": "artritis",
+    "definition": "arthritis",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.354Z",
+    "nextReview": "2025-01-29T18:13:46.354Z",
+    "ignored": false
+  },
+  {
+    "term": "ospice",
+    "definition": "measles",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.354Z",
+    "nextReview": "2025-01-29T18:13:46.354Z",
+    "ignored": false
+  },
+  {
+    "term": "mu\u010dnina",
+    "definition": "nausea",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.354Z",
+    "nextReview": "2025-01-29T18:13:46.354Z",
+    "ignored": false
+  },
+  {
+    "term": "napadaj",
+    "definition": "attack",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.355Z",
+    "nextReview": "2025-01-29T18:13:46.355Z",
+    "ignored": false
+  },
+  {
+    "term": "cijepljenje",
+    "definition": "vaccination",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.355Z",
+    "nextReview": "2025-01-29T18:13:46.355Z",
+    "ignored": false
+  },
+  {
+    "term": "davatelj",
+    "definition": "the giver",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.355Z",
+    "nextReview": "2025-01-29T18:13:46.355Z",
+    "ignored": false
+  },
+  {
+    "term": "kontrola vida",
+    "definition": "vision control",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.355Z",
+    "nextReview": "2025-01-29T18:13:46.355Z",
+    "ignored": false
+  },
+  {
+    "term": "tavan",
+    "definition": "attic",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.356Z",
+    "nextReview": "2025-01-29T18:13:46.356Z",
+    "ignored": false
+  },
+  {
+    "term": "potkrovlje",
+    "definition": "attic",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.356Z",
+    "nextReview": "2025-01-29T18:13:46.356Z",
+    "ignored": false
+  },
+  {
+    "term": "kada",
+    "definition": "when",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.356Z",
+    "nextReview": "2025-01-29T18:13:46.356Z",
+    "ignored": false
+  },
+  {
+    "term": "strop",
+    "definition": "ceiling",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.357Z",
+    "nextReview": "2025-01-29T18:13:46.357Z",
+    "ignored": false
+  },
+  {
+    "term": "prijenosno ra\u010dunalo",
+    "definition": "laptop computer",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.357Z",
+    "nextReview": "2025-01-29T18:13:46.357Z",
+    "ignored": false
+  },
+  {
+    "term": "lonac",
+    "definition": "pot",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.357Z",
+    "nextReview": "2025-01-29T18:13:46.357Z",
+    "ignored": false
+  },
+  {
+    "term": "prega\u010da",
+    "definition": "apron",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Fashion",
+    "lastReviewed": "2025-01-28T18:13:46.358Z",
+    "nextReview": "2025-01-29T18:13:46.358Z",
+    "ignored": false
+  },
+  {
+    "term": "lopatica za smece",
+    "definition": "dustpan",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.358Z",
+    "nextReview": "2025-01-29T18:13:46.358Z",
+    "ignored": false
+  },
+  {
+    "term": "blok",
+    "definition": "block",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.359Z",
+    "nextReview": "2025-01-29T18:13:46.359Z",
+    "ignored": false
+  },
+  {
+    "term": "list",
+    "definition": "sheet",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.359Z",
+    "nextReview": "2025-01-29T18:13:46.359Z",
+    "ignored": false
+  },
+  {
+    "term": "saonice",
+    "definition": "sleigh",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Transportation",
+    "lastReviewed": "2025-01-28T18:13:46.359Z",
+    "nextReview": "2025-01-29T18:13:46.359Z",
+    "ignored": false
+  },
+  {
+    "term": "ogradica",
+    "definition": "fence",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.360Z",
+    "nextReview": "2025-01-29T18:13:46.360Z",
+    "ignored": false
+  },
+  {
+    "term": "osnova",
+    "definition": "basis",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.360Z",
+    "nextReview": "2025-01-29T18:13:46.360Z",
+    "ignored": false
+  },
+  {
+    "term": "drska",
+    "definition": "handle",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.361Z",
+    "nextReview": "2025-01-29T18:13:46.361Z",
+    "ignored": false
+  },
+  {
+    "term": "plodovi mora",
+    "definition": "seafood",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.362Z",
+    "nextReview": "2025-01-29T18:13:46.362Z",
+    "ignored": false
+  },
+  {
+    "term": "dagnja",
+    "definition": "mussel",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.362Z",
+    "nextReview": "2025-01-29T18:13:46.362Z",
+    "ignored": false
+  },
+  {
+    "term": "mlije\u010dni proizvodi",
+    "definition": "dairy products",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.363Z",
+    "nextReview": "2025-01-29T18:13:46.363Z",
+    "ignored": false
+  },
+  {
+    "term": "kiselo vrhnje",
+    "definition": "sour cream",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.364Z",
+    "nextReview": "2025-01-29T18:13:46.364Z",
+    "ignored": false
+  },
+  {
+    "term": "mlijeko u prahu",
+    "definition": "powdered milk",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.364Z",
+    "nextReview": "2025-01-29T18:13:46.364Z",
+    "ignored": false
+  },
+  {
+    "term": "mlije\u010dni napitak",
+    "definition": "milk drink",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.364Z",
+    "nextReview": "2025-01-29T18:13:46.364Z",
+    "ignored": false
+  },
+  {
+    "term": "grah",
+    "definition": "bean",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.365Z",
+    "nextReview": "2025-01-29T18:13:46.365Z",
+    "ignored": false
+  },
+  {
+    "term": "zrnce kave",
+    "definition": "coffee beans",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.365Z",
+    "nextReview": "2025-01-29T18:13:46.365Z",
+    "ignored": false
+  },
+  {
+    "term": "zrnce kaka",
+    "definition": "a grain of poo",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.366Z",
+    "nextReview": "2025-01-29T18:13:46.366Z",
+    "ignored": false
+  },
+  {
+    "term": "javorov sirup",
+    "definition": "maple syrup",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.369Z",
+    "nextReview": "2025-01-29T18:13:46.369Z",
+    "ignored": false
+  },
+  {
+    "term": "slatki \u0161tapi\u0107",
+    "definition": "sweet trap",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.369Z",
+    "nextReview": "2025-01-29T18:13:46.369Z",
+    "ignored": false
+  },
+  {
+    "term": "rezanci",
+    "definition": "noodles",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.370Z",
+    "nextReview": "2025-01-29T18:13:46.370Z",
+    "ignored": false
+  },
+  {
+    "term": "pomije\u0161ati",
+    "definition": "mix",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.371Z",
+    "nextReview": "2025-01-29T18:13:46.371Z",
+    "ignored": false
+  },
+  {
+    "term": "narezati",
+    "definition": "slice up",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.371Z",
+    "nextReview": "2025-01-29T18:13:46.371Z",
+    "ignored": false
+  },
+  {
+    "term": "sirovo",
+    "definition": "raw",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.372Z",
+    "nextReview": "2025-01-29T18:13:46.372Z",
+    "ignored": false
+  },
+  {
+    "term": "przeno",
+    "definition": "przeno",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.373Z",
+    "nextReview": "2025-01-29T18:13:46.373Z",
+    "ignored": false
+  },
+  {
+    "term": "pe\u010deno",
+    "definition": "baked",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.373Z",
+    "nextReview": "2025-01-29T18:13:46.373Z",
+    "ignored": false
+  },
+  {
+    "term": "svje\u017ee",
+    "definition": "freshly",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.374Z",
+    "nextReview": "2025-01-29T18:13:46.374Z",
+    "ignored": false
+  },
+  {
+    "term": "trulo",
+    "definition": "rotten",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.374Z",
+    "nextReview": "2025-01-29T18:13:46.374Z",
+    "ignored": false
+  },
+  {
+    "term": "nositi",
+    "definition": "wear",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.375Z",
+    "nextReview": "2025-01-29T18:13:46.375Z",
+    "ignored": false
+  },
+  {
+    "term": "ravnatelj",
+    "definition": "director",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Work",
+    "lastReviewed": "2025-01-28T18:13:46.375Z",
+    "nextReview": "2025-01-29T18:13:46.375Z",
+    "ignored": false
+  },
+  {
+    "term": "suu\u010desnica",
+    "definition": "an accomplice",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.376Z",
+    "nextReview": "2025-01-29T18:13:46.376Z",
+    "ignored": false
+  },
+  {
+    "term": "predmet",
+    "definition": "case",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Education",
+    "lastReviewed": "2025-01-28T18:13:46.377Z",
+    "nextReview": "2025-01-29T18:13:46.377Z",
+    "ignored": false
+  },
+  {
+    "term": "teritorij",
+    "definition": "territory",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-02-02T00:03:52.042Z",
+    "nextReview": "2025-02-02T06:03:52.042Z",
+    "ignored": false
+  },
+  {
+    "term": "samoglasnik",
+    "definition": "vowel",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Education",
+    "lastReviewed": "2025-01-28T18:13:46.378Z",
+    "nextReview": "2025-01-29T18:13:46.378Z",
+    "ignored": false
+  },
+  {
+    "term": "suglasnik",
+    "definition": "consonant",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Education",
+    "lastReviewed": "2025-01-28T18:13:46.379Z",
+    "nextReview": "2025-01-29T18:13:46.379Z",
+    "ignored": false
+  },
+  {
+    "term": "velika slova",
+    "definition": "upper case",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Education",
+    "lastReviewed": "2025-01-28T18:13:46.379Z",
+    "nextReview": "2025-01-29T18:13:46.379Z",
+    "ignored": false
+  },
+  {
+    "term": "mala slova",
+    "definition": "lower case",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Education",
+    "lastReviewed": "2025-01-28T18:13:46.379Z",
+    "nextReview": "2025-01-29T18:13:46.379Z",
+    "ignored": false
+  },
+  {
+    "term": "hijeroglif",
+    "definition": "hieroglyph",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Education",
+    "lastReviewed": "2025-01-28T18:13:46.380Z",
+    "nextReview": "2025-01-29T18:13:46.380Z",
+    "ignored": false
+  },
+  {
+    "term": "matemati\u010darka",
+    "definition": "mathematician",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Work",
+    "lastReviewed": "2025-01-28T18:13:46.380Z",
+    "nextReview": "2025-01-29T18:13:46.380Z",
+    "ignored": false
+  },
+  {
+    "term": "fizi\u010dar",
+    "definition": "physicist",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Work",
+    "lastReviewed": "2025-01-28T18:13:46.381Z",
+    "nextReview": "2025-01-29T18:13:46.381Z",
+    "ignored": false
+  },
+  {
+    "term": "astronom",
+    "definition": "astronomer",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Work",
+    "lastReviewed": "2025-01-28T18:13:46.381Z",
+    "nextReview": "2025-01-29T18:13:46.381Z",
+    "ignored": false
+  },
+  {
+    "term": "sudac",
+    "definition": "referee",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Work",
+    "lastReviewed": "2025-01-28T18:13:46.382Z",
+    "nextReview": "2025-01-29T18:13:46.382Z",
+    "ignored": false
+  },
+  {
+    "term": "odvjetnica",
+    "definition": "lawyer",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Work",
+    "lastReviewed": "2025-01-28T18:13:46.383Z",
+    "nextReview": "2025-01-29T18:13:46.383Z",
+    "ignored": false
+  },
+  {
+    "term": "djelatnica putni\u010dke agencije",
+    "definition": "employee of a travel agency",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Work",
+    "lastReviewed": "2025-01-28T18:13:46.384Z",
+    "nextReview": "2025-01-29T18:13:46.384Z",
+    "ignored": false
+  },
+  {
+    "term": "avijati\u010dar",
+    "definition": "aviator",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Work",
+    "lastReviewed": "2025-02-02T00:02:35.034Z",
+    "nextReview": "2025-02-02T06:02:35.034Z",
+    "ignored": false
+  },
+  {
+    "term": "vratar",
+    "definition": "the gatekeeper",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Work",
+    "lastReviewed": "2025-01-28T18:13:46.385Z",
+    "nextReview": "2025-01-29T18:13:46.385Z",
+    "ignored": false
+  },
+  {
+    "term": "za\u0161titar",
+    "definition": "security guard",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Work",
+    "lastReviewed": "2025-01-28T18:13:46.385Z",
+    "nextReview": "2025-01-29T18:13:46.385Z",
+    "ignored": false
+  },
+  {
+    "term": "spasilac",
+    "definition": "lifeguard",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Work",
+    "lastReviewed": "2025-01-28T18:13:46.386Z",
+    "nextReview": "2025-01-29T18:13:46.386Z",
+    "ignored": false
+  },
+  {
+    "term": "sti\u0107i",
+    "definition": "arrive",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.387Z",
+    "nextReview": "2025-01-29T18:13:46.387Z",
+    "ignored": false
+  },
+  {
+    "term": "ispustiti",
+    "definition": "drop",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.387Z",
+    "nextReview": "2025-01-29T18:13:46.387Z",
+    "ignored": false
+  },
+  {
+    "term": "napuniti",
+    "definition": "fill",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.387Z",
+    "nextReview": "2025-01-29T18:13:46.387Z",
+    "ignored": false
+  },
+  {
+    "term": "poskliznuti se",
+    "definition": "to slip",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.387Z",
+    "nextReview": "2025-01-29T18:13:46.387Z",
+    "ignored": false
+  },
+  {
+    "term": "trljati",
+    "definition": "rub",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.388Z",
+    "nextReview": "2025-01-29T18:13:46.388Z",
+    "ignored": false
+  },
+  {
+    "term": "ra\u0161\u010distiti",
+    "definition": "clear off",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.388Z",
+    "nextReview": "2025-01-29T18:13:46.388Z",
+    "ignored": false
+  },
+  {
+    "term": "povla\u010diti",
+    "definition": "pull",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.388Z",
+    "nextReview": "2025-01-29T18:13:46.388Z",
+    "ignored": false
+  },
+  {
+    "term": "voditi",
+    "definition": "lead",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-02-02T00:04:05.225Z",
+    "nextReview": "2025-02-02T06:04:05.225Z",
+    "ignored": false
+  },
+  {
+    "term": "zabraniti",
+    "definition": "prohibit",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.389Z",
+    "nextReview": "2025-01-29T18:13:46.389Z",
+    "ignored": false
+  },
+  {
+    "term": "obuhva\u0107ati",
+    "definition": "to encompass",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.389Z",
+    "nextReview": "2025-01-29T18:13:46.389Z",
+    "ignored": false
+  },
+  {
+    "term": "ograni\u010davati",
+    "definition": "to limit",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.389Z",
+    "nextReview": "2025-01-29T18:13:46.389Z",
+    "ignored": false
+  },
+  {
+    "term": "poga\u0111ati",
+    "definition": "guess",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.389Z",
+    "nextReview": "2025-01-29T18:13:46.389Z",
+    "ignored": false
+  },
+  {
+    "term": "raspravljati",
+    "definition": "discuss",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.389Z",
+    "nextReview": "2025-01-29T18:13:46.389Z",
+    "ignored": false
+  },
+  {
+    "term": "objasniti",
+    "definition": "explain",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.390Z",
+    "nextReview": "2025-01-29T18:13:46.390Z",
+    "ignored": false
+  },
+  {
+    "term": "otkriti",
+    "definition": "discover",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.390Z",
+    "nextReview": "2025-01-29T18:13:46.390Z",
+    "ignored": false
+  },
+  {
+    "term": "pou\u010davati",
+    "definition": "instruct",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.390Z",
+    "nextReview": "2025-01-29T18:13:46.390Z",
+    "ignored": false
+  },
+  {
+    "term": "ne slagati se",
+    "definition": "disagree",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.391Z",
+    "nextReview": "2025-01-29T18:13:46.391Z",
+    "ignored": false
+  },
+  {
+    "term": "nedostajati",
+    "definition": "miss",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.391Z",
+    "nextReview": "2025-01-29T18:13:46.391Z",
+    "ignored": false
+  },
+  {
+    "term": "smetati",
+    "definition": "bother",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.391Z",
+    "nextReview": "2025-01-29T18:13:46.391Z",
+    "ignored": false
+  },
+  {
+    "term": "pobijediti",
+    "definition": "win",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.392Z",
+    "nextReview": "2025-01-29T18:13:46.392Z",
+    "ignored": false
+  },
+  {
+    "term": "podbaciti",
+    "definition": "fail",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.392Z",
+    "nextReview": "2025-01-29T18:13:46.392Z",
+    "ignored": false
+  },
+  {
+    "term": "postati",
+    "definition": "become",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.392Z",
+    "nextReview": "2025-01-29T18:13:46.392Z",
+    "ignored": false
+  },
+  {
+    "term": "stvoriti",
+    "definition": "create",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.393Z",
+    "nextReview": "2025-01-29T18:13:46.393Z",
+    "ignored": false
+  },
+  {
+    "term": "utipkati",
+    "definition": "to type",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.393Z",
+    "nextReview": "2025-01-29T18:13:46.393Z",
+    "ignored": false
+  },
+  {
+    "term": "opustiti se",
+    "definition": "relax",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.393Z",
+    "nextReview": "2025-01-29T18:13:46.393Z",
+    "ignored": false
+  },
+  {
+    "term": "rijetko",
+    "definition": "rarely",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.393Z",
+    "nextReview": "2025-01-29T18:13:46.393Z",
+    "ignored": false
+  },
+  {
+    "term": "o\u010dito",
+    "definition": "obviously",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.394Z",
+    "nextReview": "2025-01-29T18:13:46.394Z",
+    "ignored": false
+  },
+  {
+    "term": "posteno",
+    "definition": "fair",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.394Z",
+    "nextReview": "2025-01-29T18:13:46.394Z",
+    "ignored": false
+  },
+  {
+    "term": "na lijep na\u010din",
+    "definition": "in a nice way",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.394Z",
+    "nextReview": "2025-01-29T18:13:46.394Z",
+    "ignored": false
+  },
+  {
+    "term": "uspje\u0161no",
+    "definition": "successfully",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.394Z",
+    "nextReview": "2025-01-29T18:13:46.394Z",
+    "ignored": false
+  },
+  {
+    "term": "pravi\u010dno",
+    "definition": "fair",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.395Z",
+    "nextReview": "2025-01-29T18:13:46.395Z",
+    "ignored": false
+  },
+  {
+    "term": "ponosno",
+    "definition": "proudly",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.395Z",
+    "nextReview": "2025-01-29T18:13:46.395Z",
+    "ignored": false
+  },
+  {
+    "term": "sna\u017eno",
+    "definition": "strongly",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.395Z",
+    "nextReview": "2025-01-29T18:13:46.395Z",
+    "ignored": false
+  },
+  {
+    "term": "njegova",
+    "definition": "his",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Pronouns",
+    "lastReviewed": "2025-01-28T18:13:46.395Z",
+    "nextReview": "2025-01-29T18:13:46.395Z",
+    "ignored": false
+  },
+  {
+    "term": "njena",
+    "definition": "hers",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Pronouns",
+    "lastReviewed": "2025-01-28T18:13:46.396Z",
+    "nextReview": "2025-01-29T18:13:46.396Z",
+    "ignored": false
+  },
+  {
+    "term": "njegova",
+    "definition": "his",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Pronouns",
+    "lastReviewed": "2025-01-28T18:13:46.396Z",
+    "nextReview": "2025-01-29T18:13:46.396Z",
+    "ignored": false
+  },
+  {
+    "term": "njihova",
+    "definition": "theirs",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Pronouns",
+    "lastReviewed": "2025-01-28T18:13:46.396Z",
+    "nextReview": "2025-01-29T18:13:46.396Z",
+    "ignored": false
+  },
+  {
+    "term": "iznad",
+    "definition": "above",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.397Z",
+    "nextReview": "2025-01-29T18:13:46.397Z",
+    "ignored": false
+  },
+  {
+    "term": "ispod",
+    "definition": "below",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.397Z",
+    "nextReview": "2025-01-29T18:13:46.397Z",
+    "ignored": false
+  },
+  {
+    "term": "jednom",
+    "definition": "once",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.397Z",
+    "nextReview": "2025-01-29T18:13:46.397Z",
+    "ignored": false
+  },
+  {
+    "term": "dok",
+    "definition": "while",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.398Z",
+    "nextReview": "2025-01-29T18:13:46.398Z",
+    "ignored": false
+  },
+  {
+    "term": "tako da",
+    "definition": "so that",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.398Z",
+    "nextReview": "2025-01-29T18:13:46.398Z",
+    "ignored": false
+  },
+  {
+    "term": "rodbina",
+    "definition": "relatives",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.398Z",
+    "nextReview": "2025-01-29T18:13:46.398Z",
+    "ignored": false
+  },
+  {
+    "term": "koketirati",
+    "definition": "to flirt",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.399Z",
+    "nextReview": "2025-01-29T18:13:46.399Z",
+    "ignored": false
+  },
+  {
+    "term": "udvarati se",
+    "definition": "court",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.399Z",
+    "nextReview": "2025-01-29T18:13:46.399Z",
+    "ignored": false
+  },
+  {
+    "term": "puno po\u0161tovanje",
+    "definition": "full respect",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.400Z",
+    "nextReview": "2025-01-29T18:13:46.400Z",
+    "ignored": false
+  },
+  {
+    "term": "predan",
+    "definition": "devoted",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.400Z",
+    "nextReview": "2025-01-29T18:13:46.400Z",
+    "ignored": false
+  },
+  {
+    "term": "ugledan",
+    "definition": "respectable",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.400Z",
+    "nextReview": "2025-01-29T18:13:46.400Z",
+    "ignored": false
+  },
+  {
+    "term": "svjestan",
+    "definition": "aware",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.401Z",
+    "nextReview": "2025-01-29T18:13:46.401Z",
+    "ignored": false
+  },
+  {
+    "term": "ponizna",
+    "definition": "humble",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.402Z",
+    "nextReview": "2025-01-29T18:13:46.402Z",
+    "ignored": false
+  },
+  {
+    "term": "sebi\u010dna",
+    "definition": "selfish",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-02-02T00:03:48.419Z",
+    "nextReview": "2025-02-02T06:03:48.419Z",
+    "ignored": false
+  },
+  {
+    "term": "nemarna",
+    "definition": "careless",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.403Z",
+    "nextReview": "2025-01-29T18:13:46.403Z",
+    "ignored": false
+  },
+  {
+    "term": "ozbiljna",
+    "definition": "serious",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.403Z",
+    "nextReview": "2025-01-29T18:13:46.403Z",
+    "ignored": false
+  },
+  {
+    "term": "osjetljiv",
+    "definition": "sensitive",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.404Z",
+    "nextReview": "2025-01-29T18:13:46.404Z",
+    "ignored": false
+  },
+  {
+    "term": "privla\u010dna",
+    "definition": "attractive",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.404Z",
+    "nextReview": "2025-01-29T18:13:46.404Z",
+    "ignored": false
+  },
+  {
+    "term": "neprivla\u010dna",
+    "definition": "unattractive",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.404Z",
+    "nextReview": "2025-01-29T18:13:46.404Z",
+    "ignored": false
+  },
+  {
+    "term": "bijesan",
+    "definition": "furious",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.405Z",
+    "nextReview": "2025-01-29T18:13:46.405Z",
+    "ignored": false
+  },
+  {
+    "term": "sumnja",
+    "definition": "doubt",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.405Z",
+    "nextReview": "2025-01-29T18:13:46.405Z",
+    "ignored": false
+  },
+  {
+    "term": "izvanredan",
+    "definition": "outstanding",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.405Z",
+    "nextReview": "2025-01-29T18:13:46.405Z",
+    "ignored": false
+  },
+  {
+    "term": "zadovoljavaju\u0107i",
+    "definition": "satisfactory",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.405Z",
+    "nextReview": "2025-01-29T18:13:46.405Z",
+    "ignored": false
+  },
+  {
+    "term": "neprihvatljiv",
+    "definition": "unacceptable",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.406Z",
+    "nextReview": "2025-01-29T18:13:46.406Z",
+    "ignored": false
+  },
+  {
+    "term": "poznat",
+    "definition": "known",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.406Z",
+    "nextReview": "2025-01-29T18:13:46.406Z",
+    "ignored": false
+  },
+  {
+    "term": "nepoznat",
+    "definition": "unknown",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.406Z",
+    "nextReview": "2025-01-29T18:13:46.406Z",
+    "ignored": false
+  },
+  {
+    "term": "savr\u0161en",
+    "definition": "perfect",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.406Z",
+    "nextReview": "2025-01-29T18:13:46.406Z",
+    "ignored": false
+  },
+  {
+    "term": "nesavr\u0161en",
+    "definition": "imperfect",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.407Z",
+    "nextReview": "2025-01-29T18:13:46.407Z",
+    "ignored": false
+  },
+  {
+    "term": "pristojnost",
+    "definition": "decency",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.407Z",
+    "nextReview": "2025-01-29T18:13:46.407Z",
+    "ignored": false
+  },
+  {
+    "term": "iskrenost",
+    "definition": "sincerity",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.407Z",
+    "nextReview": "2025-01-29T18:13:46.407Z",
+    "ignored": false
+  },
+  {
+    "term": "neiskrenost",
+    "definition": "insincerity",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.408Z",
+    "nextReview": "2025-01-29T18:13:46.408Z",
+    "ignored": false
+  },
+  {
+    "term": "podlaktica",
+    "definition": "forearm",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.408Z",
+    "nextReview": "2025-01-29T18:13:46.408Z",
+    "ignored": false
+  },
+  {
+    "term": "dlan",
+    "definition": "palm",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.408Z",
+    "nextReview": "2025-01-29T18:13:46.408Z",
+    "ignored": false
+  },
+  {
+    "term": "\u017eu\u010d",
+    "definition": "bile",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.408Z",
+    "nextReview": "2025-01-29T18:13:46.408Z",
+    "ignored": false
+  },
+  {
+    "term": "tanko crijevo",
+    "definition": "small intestine",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.409Z",
+    "nextReview": "2025-01-29T18:13:46.409Z",
+    "ignored": false
+  },
+  {
+    "term": "debelo crijevo",
+    "definition": "colon",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.409Z",
+    "nextReview": "2025-01-29T18:13:46.409Z",
+    "ignored": false
+  },
+  {
+    "term": "slijepo crijevo",
+    "definition": "appendix",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.409Z",
+    "nextReview": "2025-01-29T18:13:46.409Z",
+    "ignored": false
+  },
+  {
+    "term": "lubanja",
+    "definition": "skull",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.409Z",
+    "nextReview": "2025-01-29T18:13:46.409Z",
+    "ignored": false
+  },
+  {
+    "term": "gornja \u010deljust",
+    "definition": "upper jaw",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.410Z",
+    "nextReview": "2025-01-29T18:13:46.410Z",
+    "ignored": false
+  },
+  {
+    "term": "jagodice",
+    "definition": "cheekbones",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.410Z",
+    "nextReview": "2025-01-29T18:13:46.410Z",
+    "ignored": false
+  },
+  {
+    "term": "pomirisati",
+    "definition": "smell",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.411Z",
+    "nextReview": "2025-01-29T18:13:46.411Z",
+    "ignored": false
+  },
+  {
+    "term": "staviti",
+    "definition": "tan",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.412Z",
+    "nextReview": "2025-01-29T18:13:46.412Z",
+    "ignored": false
+  },
+  {
+    "term": "ustati",
+    "definition": "stand up",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-30T20:22:00.639Z",
+    "nextReview": "2025-01-31T02:22:00.639Z",
+    "ignored": false
+  },
+  {
+    "term": "cir",
+    "definition": "ulcer",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.413Z",
+    "nextReview": "2025-01-29T18:13:46.413Z",
+    "ignored": false
+  },
+  {
+    "term": "mamurnost",
+    "definition": "hangover",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.414Z",
+    "nextReview": "2025-01-29T18:13:46.414Z",
+    "ignored": false
+  },
+  {
+    "term": "prhut",
+    "definition": "dandruff",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.414Z",
+    "nextReview": "2025-01-29T18:13:46.414Z",
+    "ignored": false
+  },
+  {
+    "term": "znojenje",
+    "definition": "sweating",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.414Z",
+    "nextReview": "2025-01-29T18:13:46.414Z",
+    "ignored": false
+  },
+  {
+    "term": "prigovor",
+    "definition": "complaint",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Communication",
+    "lastReviewed": "2025-01-28T18:13:46.415Z",
+    "nextReview": "2025-01-29T18:13:46.415Z",
+    "ignored": false
+  },
+  {
+    "term": "savjetovanje",
+    "definition": "consultation",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Communication",
+    "lastReviewed": "2025-01-28T18:13:46.415Z",
+    "nextReview": "2025-01-29T18:13:46.415Z",
+    "ignored": false
+  },
+  {
+    "term": "zdravstveno osiguranje",
+    "definition": "health insurance",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.415Z",
+    "nextReview": "2025-01-29T18:13:46.415Z",
+    "ignored": false
+  },
+  {
+    "term": "postupak",
+    "definition": "procedure",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.416Z",
+    "nextReview": "2025-01-29T18:13:46.416Z",
+    "ignored": false
+  },
+  {
+    "term": "caklina",
+    "definition": "enamel",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.416Z",
+    "nextReview": "2025-01-29T18:13:46.416Z",
+    "ignored": false
+  },
+  {
+    "term": "pala\u010da",
+    "definition": "palace",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.417Z",
+    "nextReview": "2025-01-29T18:13:46.417Z",
+    "ignored": false
+  },
+  {
+    "term": "hidromasa\u017eni bazen",
+    "definition": "hydromassage pool",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.417Z",
+    "nextReview": "2025-01-29T18:13:46.417Z",
+    "ignored": false
+  },
+  {
+    "term": "zavjesa tu\u0161a",
+    "definition": "shower curtain",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.419Z",
+    "nextReview": "2025-01-29T18:13:46.419Z",
+    "ignored": false
+  },
+  {
+    "term": "polica",
+    "definition": "shelf",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.419Z",
+    "nextReview": "2025-01-29T18:13:46.419Z",
+    "ignored": false
+  },
+  {
+    "term": "stolnjak",
+    "definition": "tablecloth",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.420Z",
+    "nextReview": "2025-01-29T18:13:46.420Z",
+    "ignored": false
+  },
+  {
+    "term": "ubrus",
+    "definition": "napkin",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.420Z",
+    "nextReview": "2025-01-29T18:13:46.420Z",
+    "ignored": false
+  },
+  {
+    "term": "otira\u010d",
+    "definition": "mat",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.421Z",
+    "nextReview": "2025-01-29T18:13:46.421Z",
+    "ignored": false
+  },
+  {
+    "term": "okvir",
+    "definition": "framework",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.421Z",
+    "nextReview": "2025-01-29T18:13:46.421Z",
+    "ignored": false
+  },
+  {
+    "term": "stubi\u0161te",
+    "definition": "staircase",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.421Z",
+    "nextReview": "2025-01-29T18:13:46.421Z",
+    "ignored": false
+  },
+  {
+    "term": "klupa",
+    "definition": "bench",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.421Z",
+    "nextReview": "2025-01-29T18:13:46.421Z",
+    "ignored": false
+  },
+  {
+    "term": "kut",
+    "definition": "angle",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.422Z",
+    "nextReview": "2025-01-29T18:13:46.422Z",
+    "ignored": false
+  },
+  {
+    "term": "ured za nekretnine",
+    "definition": "real estate office",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Work",
+    "lastReviewed": "2025-01-28T18:13:46.422Z",
+    "nextReview": "2025-01-29T18:13:46.422Z",
+    "ignored": false
+  },
+  {
+    "term": "imovina",
+    "definition": "assets",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.422Z",
+    "nextReview": "2025-01-29T18:13:46.422Z",
+    "ignored": false
+  },
+  {
+    "term": "vlasnik ku\u0107e",
+    "definition": "the owner of the house",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.423Z",
+    "nextReview": "2025-01-29T18:13:46.423Z",
+    "ignored": false
+  },
+  {
+    "term": "trgovina robom",
+    "definition": "trade in goods",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Shopping",
+    "lastReviewed": "2025-01-28T18:13:46.423Z",
+    "nextReview": "2025-01-29T18:13:46.423Z",
+    "ignored": false
+  },
+  {
+    "term": "draguljarnica",
+    "definition": "jewelry store",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Shopping",
+    "lastReviewed": "2025-01-28T18:13:46.424Z",
+    "nextReview": "2025-01-29T18:13:46.424Z",
+    "ignored": false
+  },
+  {
+    "term": "trgovina rabljene robe",
+    "definition": "used goods trade",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Shopping",
+    "lastReviewed": "2025-01-28T18:13:46.424Z",
+    "nextReview": "2025-01-29T18:13:46.424Z",
+    "ignored": false
+  },
+  {
+    "term": "budilica",
+    "definition": "alarm clock",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.425Z",
+    "nextReview": "2025-01-29T18:13:46.425Z",
+    "ignored": false
+  },
+  {
+    "term": "tavan",
+    "definition": "attic",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.425Z",
+    "nextReview": "2025-01-29T18:13:46.425Z",
+    "ignored": false
+  },
+  {
+    "term": "poklopac",
+    "definition": "cover",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.425Z",
+    "nextReview": "2025-01-29T18:13:46.425Z",
+    "ignored": false
+  },
+  {
+    "term": "posuda",
+    "definition": "vessel",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.425Z",
+    "nextReview": "2025-01-29T18:13:46.425Z",
+    "ignored": false
+  },
+  {
+    "term": "pladanj",
+    "definition": "tray",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.426Z",
+    "nextReview": "2025-01-29T18:13:46.426Z",
+    "ignored": false
+  },
+  {
+    "term": "re\u0161etka",
+    "definition": "grid",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.426Z",
+    "nextReview": "2025-01-29T18:13:46.426Z",
+    "ignored": false
+  },
+  {
+    "term": "\u0161ibica",
+    "definition": "match",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.426Z",
+    "nextReview": "2025-01-29T18:13:46.426Z",
+    "ignored": false
+  },
+  {
+    "term": "upalja\u010d",
+    "definition": "lighter",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.426Z",
+    "nextReview": "2025-01-29T18:13:46.426Z",
+    "ignored": false
+  },
+  {
+    "term": "ba\u010dva",
+    "definition": "barrel",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.427Z",
+    "nextReview": "2025-01-29T18:13:46.427Z",
+    "ignored": false
+  },
+  {
+    "term": "ljestve",
+    "definition": "ladder",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.427Z",
+    "nextReview": "2025-01-29T18:13:46.427Z",
+    "ignored": false
+  },
+  {
+    "term": "roly poly",
+    "definition": "roly poly",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.427Z",
+    "nextReview": "2025-01-29T18:13:46.427Z",
+    "ignored": false
+  },
+  {
+    "term": "kolonjska voda",
+    "definition": "eau de cologne",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Shopping",
+    "lastReviewed": "2025-01-28T18:13:46.428Z",
+    "nextReview": "2025-01-29T18:13:46.428Z",
+    "ignored": false
+  },
+  {
+    "term": "odstranjivac laka za nokte",
+    "definition": "nail polish remover",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Shopping",
+    "lastReviewed": "2025-01-28T18:13:46.428Z",
+    "nextReview": "2025-01-29T18:13:46.428Z",
+    "ignored": false
+  },
+  {
+    "term": "vata",
+    "definition": "cotton wool",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Shopping",
+    "lastReviewed": "2025-01-28T18:13:46.428Z",
+    "nextReview": "2025-01-29T18:13:46.428Z",
+    "ignored": false
+  },
+  {
+    "term": "teku\u0107ina za usta",
+    "definition": "mouthwash",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.428Z",
+    "nextReview": "2025-01-29T18:13:46.428Z",
+    "ignored": false
+  },
+  {
+    "term": "stapi\u0107 za u\u0161i",
+    "definition": "ear hook",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.429Z",
+    "nextReview": "2025-01-29T18:13:46.429Z",
+    "ignored": false
+  },
+  {
+    "term": "zasun",
+    "definition": "latch",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.429Z",
+    "nextReview": "2025-01-29T18:13:46.429Z",
+    "ignored": false
+  },
+  {
+    "term": "matica",
+    "definition": "nut",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.429Z",
+    "nextReview": "2025-01-29T18:13:46.429Z",
+    "ignored": false
+  },
+  {
+    "term": "slavina",
+    "definition": "tap",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.429Z",
+    "nextReview": "2025-01-29T18:13:46.429Z",
+    "ignored": false
+  },
+  {
+    "term": "roba",
+    "definition": "goods",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Shopping",
+    "lastReviewed": "2025-01-28T18:13:46.430Z",
+    "nextReview": "2025-01-29T18:13:46.430Z",
+    "ignored": false
+  },
+  {
+    "term": "popust",
+    "definition": "discount",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Shopping",
+    "lastReviewed": "2025-01-28T18:13:46.430Z",
+    "nextReview": "2025-01-29T18:13:46.430Z",
+    "ignored": false
+  },
+  {
+    "term": "rasprodaja",
+    "definition": "sale",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Shopping",
+    "lastReviewed": "2025-01-28T18:13:46.431Z",
+    "nextReview": "2025-01-29T18:13:46.431Z",
+    "ignored": false
+  },
+  {
+    "term": "ponuda",
+    "definition": "offer",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Shopping",
+    "lastReviewed": "2025-01-28T18:13:46.431Z",
+    "nextReview": "2025-01-29T18:13:46.431Z",
+    "ignored": false
+  },
+  {
+    "term": "sjeme",
+    "definition": "seed",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Plants",
+    "lastReviewed": "2025-01-28T18:13:46.432Z",
+    "nextReview": "2025-01-29T18:13:46.432Z",
+    "ignored": false
+  },
+  {
+    "term": "rotkvica",
+    "definition": "radish",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.434Z",
+    "nextReview": "2025-01-29T18:13:46.434Z",
+    "ignored": false
+  },
+  {
+    "term": "\u0161paroga",
+    "definition": "asparagus",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.435Z",
+    "nextReview": "2025-01-29T18:13:46.435Z",
+    "ignored": false
+  },
+  {
+    "term": "perad",
+    "definition": "poultry",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.436Z",
+    "nextReview": "2025-01-29T18:13:46.436Z",
+    "ignored": false
+  },
+  {
+    "term": "odrezak",
+    "definition": "steak",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.436Z",
+    "nextReview": "2025-01-29T18:13:46.436Z",
+    "ignored": false
+  },
+  {
+    "term": "prsa",
+    "definition": "breast",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.437Z",
+    "nextReview": "2025-01-29T18:13:46.437Z",
+    "ignored": false
+  },
+  {
+    "term": "som",
+    "definition": "catfish",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.437Z",
+    "nextReview": "2025-01-29T18:13:46.437Z",
+    "ignored": false
+  },
+  {
+    "term": "tijesto",
+    "definition": "dough",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.437Z",
+    "nextReview": "2025-01-29T18:13:46.437Z",
+    "ignored": false
+  },
+  {
+    "term": "kvasac",
+    "definition": "yeast",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.437Z",
+    "nextReview": "2025-01-29T18:13:46.437Z",
+    "ignored": false
+  },
+  {
+    "term": "mahuna",
+    "definition": "pod",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.438Z",
+    "nextReview": "2025-01-29T18:13:46.438Z",
+    "ignored": false
+  },
+  {
+    "term": "klip",
+    "definition": "piston",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.438Z",
+    "nextReview": "2025-01-29T18:13:46.438Z",
+    "ignored": false
+  },
+  {
+    "term": "aperitiv",
+    "definition": "aperitif",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.438Z",
+    "nextReview": "2025-01-29T18:13:46.438Z",
+    "ignored": false
+  },
+  {
+    "term": "predjelo",
+    "definition": "appetizer",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.438Z",
+    "nextReview": "2025-01-29T18:13:46.438Z",
+    "ignored": false
+  },
+  {
+    "term": "kokice",
+    "definition": "popcorn",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.439Z",
+    "nextReview": "2025-01-29T18:13:46.439Z",
+    "ignored": false
+  },
+  {
+    "term": "odmrznuti",
+    "definition": "defrost",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.439Z",
+    "nextReview": "2025-01-29T18:13:46.439Z",
+    "ignored": false
+  },
+  {
+    "term": "zagrijati",
+    "definition": "heat up",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.440Z",
+    "nextReview": "2025-01-29T18:13:46.440Z",
+    "ignored": false
+  },
+  {
+    "term": "njuh",
+    "definition": "flair",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.441Z",
+    "nextReview": "2025-01-29T18:13:46.441Z",
+    "ignored": false
+  },
+  {
+    "term": "mekano",
+    "definition": "soft",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.441Z",
+    "nextReview": "2025-01-29T18:13:46.441Z",
+    "ignored": false
+  },
+  {
+    "term": "\u017eilavo",
+    "definition": "hard",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.442Z",
+    "nextReview": "2025-01-29T18:13:46.442Z",
+    "ignored": false
+  },
+  {
+    "term": "ustajalo",
+    "definition": "stale",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.442Z",
+    "nextReview": "2025-01-29T18:13:46.442Z",
+    "ignored": false
+  },
+  {
+    "term": "vre\u0107ica \u010daja",
+    "definition": "a tea bag",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.442Z",
+    "nextReview": "2025-01-29T18:13:46.442Z",
+    "ignored": false
+  },
+  {
+    "term": "nepitko",
+    "definition": "non-drinkable",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.443Z",
+    "nextReview": "2025-01-29T18:13:46.443Z",
+    "ignored": false
+  },
+  {
+    "term": "skinute se",
+    "definition": "take off your clothes",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.443Z",
+    "nextReview": "2025-01-29T18:13:46.443Z",
+    "ignored": false
+  },
+  {
+    "term": "tjesno",
+    "definition": "tight",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.444Z",
+    "nextReview": "2025-01-29T18:13:46.444Z",
+    "ignored": false
+  },
+  {
+    "term": "\u0161iroko",
+    "definition": "wide",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.444Z",
+    "nextReview": "2025-01-29T18:13:46.444Z",
+    "ignored": false
+  },
+  {
+    "term": "ostati",
+    "definition": "stay",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.444Z",
+    "nextReview": "2025-01-29T18:13:46.444Z",
+    "ignored": false
+  },
+  {
+    "term": "upravo",
+    "definition": "just",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.445Z",
+    "nextReview": "2025-01-29T18:13:46.445Z",
+    "ignored": false
+  },
+  {
+    "term": "negdje",
+    "definition": "somewhere",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.446Z",
+    "nextReview": "2025-01-29T18:13:46.446Z",
+    "ignored": false
+  },
+  {
+    "term": "posvuda",
+    "definition": "everywhere",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.446Z",
+    "nextReview": "2025-01-29T18:13:46.446Z",
+    "ignored": false
+  },
+  {
+    "term": "igdje drugdje",
+    "definition": "anywhere else",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.447Z",
+    "nextReview": "2025-01-29T18:13:46.447Z",
+    "ignored": false
+  },
+  {
+    "term": "izravno",
+    "definition": "directly",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.447Z",
+    "nextReview": "2025-01-29T18:13:46.447Z",
+    "ignored": false
+  },
+  {
+    "term": "op\u0107enito",
+    "definition": "in general",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.448Z",
+    "nextReview": "2025-01-29T18:13:46.448Z",
+    "ignored": false
+  },
+  {
+    "term": "skoro",
+    "definition": "almost",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.448Z",
+    "nextReview": "2025-01-29T18:13:46.448Z",
+    "ignored": false
+  },
+  {
+    "term": "posve",
+    "definition": "completely",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.448Z",
+    "nextReview": "2025-01-29T18:13:46.448Z",
+    "ignored": false
+  },
+  {
+    "term": "prirodno",
+    "definition": "naturally",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.449Z",
+    "nextReview": "2025-01-29T18:13:46.449Z",
+    "ignored": false
+  },
+  {
+    "term": "u\u010dinkovito",
+    "definition": "effectively",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.449Z",
+    "nextReview": "2025-01-29T18:13:46.449Z",
+    "ignored": false
+  },
+  {
+    "term": "tako",
+    "definition": "so",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.449Z",
+    "nextReview": "2025-01-29T18:13:46.449Z",
+    "ignored": false
+  },
+  {
+    "term": "iako",
+    "definition": "although",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.450Z",
+    "nextReview": "2025-01-29T18:13:46.450Z",
+    "ignored": false
+  },
+  {
+    "term": "tijekom",
+    "definition": "during",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.451Z",
+    "nextReview": "2025-01-29T18:13:46.451Z",
+    "ignored": false
+  },
+  {
+    "term": "nijedan",
+    "definition": "no",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Pronouns",
+    "lastReviewed": "2025-01-28T18:13:46.452Z",
+    "nextReview": "2025-01-29T18:13:46.452Z",
+    "ignored": false
+  },
+  {
+    "term": "spojnica",
+    "definition": "connector",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.453Z",
+    "nextReview": "2025-01-29T18:13:46.453Z",
+    "ignored": false
+  },
+  {
+    "term": "zdruzenje",
+    "definition": "association",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.453Z",
+    "nextReview": "2025-01-29T18:13:46.453Z",
+    "ignored": false
+  },
+  {
+    "term": "prabaka",
+    "definition": "great grandmother",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.453Z",
+    "nextReview": "2025-01-29T18:13:46.453Z",
+    "ignored": false
+  },
+  {
+    "term": "pradjed",
+    "definition": "great grandfather",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.454Z",
+    "nextReview": "2025-01-29T18:13:46.454Z",
+    "ignored": false
+  },
+  {
+    "term": "srodan",
+    "definition": "akin",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.454Z",
+    "nextReview": "2025-01-29T18:13:46.454Z",
+    "ignored": false
+  },
+  {
+    "term": "nasljedan",
+    "definition": "hereditary",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.454Z",
+    "nextReview": "2025-01-29T18:13:46.454Z",
+    "ignored": false
+  },
+  {
+    "term": "prosidba",
+    "definition": "proposal",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.454Z",
+    "nextReview": "2025-01-29T18:13:46.454Z",
+    "ignored": false
+  },
+  {
+    "term": "zaru\u010dnik",
+    "definition": "fianc\u00e9",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.455Z",
+    "nextReview": "2025-01-29T18:13:46.455Z",
+    "ignored": false
+  },
+  {
+    "term": "zaliti",
+    "definition": "regret",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.455Z",
+    "nextReview": "2025-01-29T18:13:46.455Z",
+    "ignored": false
+  },
+  {
+    "term": "po\u0161tovati",
+    "definition": "respect",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.455Z",
+    "nextReview": "2025-01-29T18:13:46.455Z",
+    "ignored": false
+  },
+  {
+    "term": "redovito",
+    "definition": "regularly",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.455Z",
+    "nextReview": "2025-01-29T18:13:46.455Z",
+    "ignored": false
+  },
+  {
+    "term": "dosta",
+    "definition": "Enough",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.456Z",
+    "nextReview": "2025-01-29T18:13:46.456Z",
+    "ignored": false
+  },
+  {
+    "term": "\u010dak",
+    "definition": "even",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.456Z",
+    "nextReview": "2025-01-29T18:13:46.456Z",
+    "ignored": false
+  },
+  {
+    "term": "osim toga",
+    "definition": "besides that",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.456Z",
+    "nextReview": "2025-01-29T18:13:46.456Z",
+    "ignored": false
+  },
+  {
+    "term": "usprkos tome",
+    "definition": "despite that",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.457Z",
+    "nextReview": "2025-01-29T18:13:46.457Z",
+    "ignored": false
+  },
+  {
+    "term": "svatko",
+    "definition": "everyone",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Pronouns",
+    "lastReviewed": "2025-01-28T18:13:46.457Z",
+    "nextReview": "2025-01-29T18:13:46.457Z",
+    "ignored": false
+  },
+  {
+    "term": "netko",
+    "definition": "someone",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Pronouns",
+    "lastReviewed": "2025-02-02T00:02:29.253Z",
+    "nextReview": "2025-02-02T06:02:29.253Z",
+    "ignored": false
+  },
+  {
+    "term": "nego",
+    "definition": "than",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.459Z",
+    "nextReview": "2025-01-29T18:13:46.459Z",
+    "ignored": false
+  },
+  {
+    "term": "skup",
+    "definition": "expensive",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.459Z",
+    "nextReview": "2025-01-29T18:13:46.459Z",
+    "ignored": false
+  },
+  {
+    "term": "komad",
+    "definition": "piece",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.460Z",
+    "nextReview": "2025-01-29T18:13:46.460Z",
+    "ignored": false
+  },
+  {
+    "term": "stanovnik",
+    "definition": "resident",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.460Z",
+    "nextReview": "2025-01-29T18:13:46.460Z",
+    "ignored": false
+  },
+  {
+    "term": "strankinja",
+    "definition": "a foreigner",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.460Z",
+    "nextReview": "2025-01-29T18:13:46.460Z",
+    "ignored": false
+  },
+  {
+    "term": "maloljetnik",
+    "definition": "minor",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.460Z",
+    "nextReview": "2025-01-29T18:13:46.460Z",
+    "ignored": false
+  },
+  {
+    "term": "lokalni stanovnici",
+    "definition": "local residents",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.461Z",
+    "nextReview": "2025-01-29T18:13:46.461Z",
+    "ignored": false
+  },
+  {
+    "term": "pleme",
+    "definition": "tribe",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.461Z",
+    "nextReview": "2025-01-29T18:13:46.461Z",
+    "ignored": false
+  },
+  {
+    "term": "sredina",
+    "definition": "middle",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.461Z",
+    "nextReview": "2025-01-29T18:13:46.461Z",
+    "ignored": false
+  },
+  {
+    "term": "razina",
+    "definition": "level",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.461Z",
+    "nextReview": "2025-01-29T18:13:46.461Z",
+    "ignored": false
+  },
+  {
+    "term": "strana",
+    "definition": "page",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.462Z",
+    "nextReview": "2025-01-29T18:13:46.462Z",
+    "ignored": false
+  },
+  {
+    "term": "porast",
+    "definition": "increase",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.462Z",
+    "nextReview": "2025-01-29T18:13:46.462Z",
+    "ignored": false
+  },
+  {
+    "term": "rje\u0161enje",
+    "definition": "decision",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.462Z",
+    "nextReview": "2025-01-29T18:13:46.462Z",
+    "ignored": false
+  },
+  {
+    "term": "u\u010dinak",
+    "definition": "effect",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.463Z",
+    "nextReview": "2025-01-29T18:13:46.463Z",
+    "ignored": false
+  },
+  {
+    "term": "razlika",
+    "definition": "difference",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.464Z",
+    "nextReview": "2025-01-29T18:13:46.464Z",
+    "ignored": false
+  },
+  {
+    "term": "pona\u0161anje",
+    "definition": "behavior",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.465Z",
+    "nextReview": "2025-01-29T18:13:46.465Z",
+    "ignored": false
+  },
+  {
+    "term": "neposlu\u0161nost",
+    "definition": "disobedience",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.465Z",
+    "nextReview": "2025-01-29T18:13:46.465Z",
+    "ignored": false
+  },
+  {
+    "term": "glasina",
+    "definition": "rumor",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Communication",
+    "lastReviewed": "2025-01-28T18:13:46.465Z",
+    "nextReview": "2025-01-29T18:13:46.465Z",
+    "ignored": false
+  },
+  {
+    "term": "promatranje",
+    "definition": "observation",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.466Z",
+    "nextReview": "2025-01-29T18:13:46.466Z",
+    "ignored": false
+  },
+  {
+    "term": "naga\u0111anje",
+    "definition": "guesswork",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.466Z",
+    "nextReview": "2025-01-29T18:13:46.466Z",
+    "ignored": false
+  },
+  {
+    "term": "\u010distiti pra\u0161inu",
+    "definition": "to clean the dust",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.468Z",
+    "nextReview": "2025-01-29T18:13:46.468Z",
+    "ignored": false
+  },
+  {
+    "term": "susiti",
+    "definition": "dry",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.472Z",
+    "nextReview": "2025-01-29T18:13:46.472Z",
+    "ignored": false
+  },
+  {
+    "term": "smo\u010diti",
+    "definition": "wet",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.473Z",
+    "nextReview": "2025-01-29T18:13:46.473Z",
+    "ignored": false
+  },
+  {
+    "term": "ograni\u010diti",
+    "definition": "limit",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-30T20:22:08.907Z",
+    "nextReview": "2025-01-31T02:22:08.907Z",
+    "ignored": false
+  },
+  {
+    "term": "ste\u0107i",
+    "definition": "acquire",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.474Z",
+    "nextReview": "2025-01-29T18:13:46.474Z",
+    "ignored": false
+  },
+  {
+    "term": "pobolj\u0161ati",
+    "definition": "improve",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.474Z",
+    "nextReview": "2025-01-29T18:13:46.474Z",
+    "ignored": false
+  },
+  {
+    "term": "zabilje\u017eiti",
+    "definition": "record",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.475Z",
+    "nextReview": "2025-01-29T18:13:46.475Z",
+    "ignored": false
+  },
+  {
+    "term": "tra\u017eiti",
+    "definition": "look for",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.477Z",
+    "nextReview": "2025-01-29T18:13:46.477Z",
+    "ignored": false
+  },
+  {
+    "term": "hvalisati se",
+    "definition": "brag",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.477Z",
+    "nextReview": "2025-01-29T18:13:46.477Z",
+    "ignored": false
+  },
+  {
+    "term": "vrije\u0111ati",
+    "definition": "insult",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.478Z",
+    "nextReview": "2025-01-29T18:13:46.478Z",
+    "ignored": false
+  },
+  {
+    "term": "psovati pore\u010d",
+    "definition": "curse word",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Communication",
+    "lastReviewed": "2025-01-28T18:13:46.480Z",
+    "nextReview": "2025-01-29T18:13:46.480Z",
+    "ignored": false
+  },
+  {
+    "term": "prekinuti",
+    "definition": "abort",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.480Z",
+    "nextReview": "2025-01-29T18:13:46.480Z",
+    "ignored": false
+  },
+  {
+    "term": "ozna\u010diti",
+    "definition": "mark",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.483Z",
+    "nextReview": "2025-01-29T18:13:46.483Z",
+    "ignored": false
+  },
+  {
+    "term": "zamijeniti",
+    "definition": "replace",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.486Z",
+    "nextReview": "2025-01-29T18:13:46.486Z",
+    "ignored": false
+  },
+  {
+    "term": "sricati",
+    "definition": "spell out",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.487Z",
+    "nextReview": "2025-01-29T18:13:46.487Z",
+    "ignored": false
+  },
+  {
+    "term": "zapamtiti",
+    "definition": "remember",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.488Z",
+    "nextReview": "2025-01-29T18:13:46.488Z",
+    "ignored": false
+  },
+  {
+    "term": "ponovno pregledati",
+    "definition": "review again",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.493Z",
+    "nextReview": "2025-01-29T18:13:46.493Z",
+    "ignored": false
+  },
+  {
+    "term": "nadma\u0161iti",
+    "definition": "surpass",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.495Z",
+    "nextReview": "2025-01-29T18:13:46.495Z",
+    "ignored": false
+  },
+  {
+    "term": "izdr\u017eati",
+    "definition": "withstand",
+    "level": 1,
+    "difficulty": 1,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-30T19:00:32.408Z",
+    "nextReview": "2025-01-30T22:00:32.408Z",
+    "ignored": false
+  },
+  {
+    "term": "zadovoljiti",
+    "definition": "satisfy",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.499Z",
+    "nextReview": "2025-01-29T18:13:46.499Z",
+    "ignored": false
+  },
+  {
+    "term": "posti\u0107i",
+    "definition": "achieve",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.500Z",
+    "nextReview": "2025-01-29T18:13:46.500Z",
+    "ignored": false
+  },
+  {
+    "term": "pohraniti",
+    "definition": "to store",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.504Z",
+    "nextReview": "2025-01-29T18:13:46.504Z",
+    "ignored": false
+  },
+  {
+    "term": "uspinjati se",
+    "definition": "to ascend",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.506Z",
+    "nextReview": "2025-01-29T18:13:46.506Z",
+    "ignored": false
+  },
+  {
+    "term": "ujediniti",
+    "definition": "unite",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.507Z",
+    "nextReview": "2025-01-29T18:13:46.507Z",
+    "ignored": false
+  },
+  {
+    "term": "razdvojiti",
+    "definition": "split",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.507Z",
+    "nextReview": "2025-01-29T18:13:46.507Z",
+    "ignored": false
+  },
+  {
+    "term": "zna\u010diti",
+    "definition": "mean",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.507Z",
+    "nextReview": "2025-01-29T18:13:46.507Z",
+    "ignored": false
+  },
+  {
+    "term": "pripadati",
+    "definition": "belong",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.508Z",
+    "nextReview": "2025-01-29T18:13:46.508Z",
+    "ignored": false
+  },
+  {
+    "term": "dogodite se",
+    "definition": "happen",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.508Z",
+    "nextReview": "2025-01-29T18:13:46.508Z",
+    "ignored": false
+  },
+  {
+    "term": "brinute se",
+    "definition": "worry",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.509Z",
+    "nextReview": "2025-01-29T18:13:46.509Z",
+    "ignored": false
+  },
+  {
+    "term": "strahovati",
+    "definition": "to fear",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.509Z",
+    "nextReview": "2025-01-29T18:13:46.509Z",
+    "ignored": false
+  },
+  {
+    "term": "diviti se",
+    "definition": "admire",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.510Z",
+    "nextReview": "2025-01-29T18:13:46.510Z",
+    "ignored": false
+  },
+  {
+    "term": "i dalje",
+    "definition": "and further",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.510Z",
+    "nextReview": "2025-01-29T18:13:46.510Z",
+    "ignored": false
+  },
+  {
+    "term": "otkad",
+    "definition": "since",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.510Z",
+    "nextReview": "2025-01-29T18:13:46.510Z",
+    "ignored": false
+  },
+  {
+    "term": "jedva",
+    "definition": "barely",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.511Z",
+    "nextReview": "2025-01-29T18:13:46.511Z",
+    "ignored": false
+  },
+  {
+    "term": "potpuno",
+    "definition": "completely",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.511Z",
+    "nextReview": "2025-01-29T18:13:46.511Z",
+    "ignored": false
+  },
+  {
+    "term": "jednako",
+    "definition": "equally",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.511Z",
+    "nextReview": "2025-01-29T18:13:46.511Z",
+    "ignored": false
+  },
+  {
+    "term": "krajnje",
+    "definition": "extremely",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.511Z",
+    "nextReview": "2025-01-29T18:13:46.511Z",
+    "ignored": false
+  },
+  {
+    "term": "pogotovo",
+    "definition": "especially",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.512Z",
+    "nextReview": "2025-01-29T18:13:46.512Z",
+    "ignored": false
+  },
+  {
+    "term": "u protivnom",
+    "definition": "otherwise",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.512Z",
+    "nextReview": "2025-01-29T18:13:46.512Z",
+    "ignored": false
+  },
+  {
+    "term": "obratno",
+    "definition": "vice versa",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.512Z",
+    "nextReview": "2025-01-29T18:13:46.512Z",
+    "ignored": false
+  },
+  {
+    "term": "tko god",
+    "definition": "whoever",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Pronouns",
+    "lastReviewed": "2025-01-28T18:13:46.513Z",
+    "nextReview": "2025-01-29T18:13:46.513Z",
+    "ignored": false
+  },
+  {
+    "term": "oko",
+    "definition": "about",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.513Z",
+    "nextReview": "2025-01-29T18:13:46.513Z",
+    "ignored": false
+  },
+  {
+    "term": "izvan",
+    "definition": "beyond",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.514Z",
+    "nextReview": "2025-01-29T18:13:46.514Z",
+    "ignored": false
+  },
+  {
+    "term": "zabrana",
+    "definition": "ban",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.514Z",
+    "nextReview": "2025-01-29T18:13:46.514Z",
+    "ignored": false
+  },
+  {
+    "term": "tada",
+    "definition": "then",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.514Z",
+    "nextReview": "2025-01-29T18:13:46.514Z",
+    "ignored": false
+  },
+  {
+    "term": "ikad",
+    "definition": "ever",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.515Z",
+    "nextReview": "2025-01-29T18:13:46.515Z",
+    "ignored": false
+  },
+  {
+    "term": "u me\u0111uvremenu",
+    "definition": "meanwhile",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.515Z",
+    "nextReview": "2025-01-29T18:13:46.515Z",
+    "ignored": false
+  },
+  {
+    "term": "preko no\u0107i",
+    "definition": "overnight",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.515Z",
+    "nextReview": "2025-01-29T18:13:46.515Z",
+    "ignored": false
+  },
+  {
+    "term": "pretjerano",
+    "definition": "excessively",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.515Z",
+    "nextReview": "2025-01-29T18:13:46.515Z",
+    "ignored": false
+  },
+  {
+    "term": "odre\u0111eni",
+    "definition": "certain",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.516Z",
+    "nextReview": "2025-01-29T18:13:46.516Z",
+    "ignored": false
+  },
+  {
+    "term": "isto",
+    "definition": "also",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.516Z",
+    "nextReview": "2025-01-29T18:13:46.516Z",
+    "ignored": false
+  },
+  {
+    "term": "takvo",
+    "definition": "such",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.521Z",
+    "nextReview": "2025-01-29T18:13:46.521Z",
+    "ignored": false
+  },
+  {
+    "term": "usred",
+    "definition": "in the middle",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.521Z",
+    "nextReview": "2025-01-29T18:13:46.521Z",
+    "ignored": false
+  },
+  {
+    "term": "uzdu\u017e",
+    "definition": "along",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.522Z",
+    "nextReview": "2025-01-29T18:13:46.522Z",
+    "ignored": false
+  },
+  {
+    "term": "udio",
+    "definition": "share",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.522Z",
+    "nextReview": "2025-01-29T18:13:46.522Z",
+    "ignored": false
+  },
+  {
+    "term": "kap",
+    "definition": "drop",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.522Z",
+    "nextReview": "2025-01-29T18:13:46.522Z",
+    "ignored": false
+  },
+  {
+    "term": "oteklina",
+    "definition": "swelling",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.523Z",
+    "nextReview": "2025-01-29T18:13:46.523Z",
+    "ignored": false
+  },
+  {
+    "term": "goru\u0161ica",
+    "definition": "heartburn",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.523Z",
+    "nextReview": "2025-01-29T18:13:46.523Z",
+    "ignored": false
+  },
+  {
+    "term": "\u0161e\u0107erna vata",
+    "definition": "cotton candy",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.523Z",
+    "nextReview": "2025-01-29T18:13:46.523Z",
+    "ignored": false
+  },
+  {
+    "term": "pikantan",
+    "definition": "piquant",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.523Z",
+    "nextReview": "2025-01-29T18:13:46.523Z",
+    "ignored": false
+  },
+  {
+    "term": "gazirana voda",
+    "definition": "sparkling water",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.523Z",
+    "nextReview": "2025-01-29T18:13:46.523Z",
+    "ignored": false
+  },
+  {
+    "term": "limunada",
+    "definition": "lemonade",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.523Z",
+    "nextReview": "2025-01-29T18:13:46.523Z",
+    "ignored": false
+  },
+  {
+    "term": "zeleni \u010daj",
+    "definition": "green tea",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.524Z",
+    "nextReview": "2025-01-29T18:13:46.524Z",
+    "ignored": false
+  },
+  {
+    "term": "lon\u010darstvo",
+    "definition": "pottery",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Culture",
+    "lastReviewed": "2025-01-28T18:13:46.524Z",
+    "nextReview": "2025-01-29T18:13:46.524Z",
+    "ignored": false
+  },
+  {
+    "term": "\u0161etnja",
+    "definition": "walk",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Leisure Time",
+    "lastReviewed": "2025-01-28T18:13:46.524Z",
+    "nextReview": "2025-01-29T18:13:46.524Z",
+    "ignored": false
+  },
+  {
+    "term": "val",
+    "definition": "wave",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Environment",
+    "lastReviewed": "2025-01-28T18:13:46.524Z",
+    "nextReview": "2025-01-29T18:13:46.524Z",
+    "ignored": false
+  },
+  {
+    "term": "vre\u0107a za spavanje",
+    "definition": "sleeping bag",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Leisure Time",
+    "lastReviewed": "2025-01-28T18:13:46.524Z",
+    "nextReview": "2025-01-29T18:13:46.524Z",
+    "ignored": false
+  },
+  {
+    "term": "penjalica",
+    "definition": "climbing frame",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-01-28T18:13:46.525Z",
+    "nextReview": "2025-01-29T18:13:46.525Z",
+    "ignored": false
+  },
+  {
+    "term": "dje\u010dji bazen",
+    "definition": "children's pool",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.525Z",
+    "nextReview": "2025-01-29T18:13:46.525Z",
+    "ignored": false
+  },
+  {
+    "term": "tr\u010danje",
+    "definition": "jogging",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-01-28T18:13:46.525Z",
+    "nextReview": "2025-01-29T18:13:46.525Z",
+    "ignored": false
+  },
+  {
+    "term": "kaciga",
+    "definition": "helmet",
+    "level": 1,
+    "difficulty": 1,
+    "niveau": "Sports",
+    "lastReviewed": "2025-01-30T19:01:50.864Z",
+    "nextReview": "2025-01-30T22:01:50.864Z",
+    "ignored": false
+  },
+  {
+    "term": "pobjednik",
+    "definition": "winner",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-01-28T18:13:46.526Z",
+    "nextReview": "2025-01-29T18:13:46.526Z",
+    "ignored": false
+  },
+  {
+    "term": "posti\u0107i zgoditak",
+    "definition": "score a goal",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Sports",
+    "lastReviewed": "2025-01-28T18:13:46.526Z",
+    "nextReview": "2025-01-29T18:13:46.526Z",
+    "ignored": false
+  },
+  {
+    "term": "ruralno podru\u010dje",
+    "definition": "rural area",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Environment",
+    "lastReviewed": "2025-01-28T18:13:46.527Z",
+    "nextReview": "2025-01-29T18:13:46.527Z",
+    "ignored": false
+  },
+  {
+    "term": "prizemljiti se",
+    "definition": "to ground yourself",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.528Z",
+    "nextReview": "2025-01-29T18:13:46.528Z",
+    "ignored": false
+  },
+  {
+    "term": "kanu",
+    "definition": "canoe",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Transportation",
+    "lastReviewed": "2025-01-28T18:13:46.528Z",
+    "nextReview": "2025-01-29T18:13:46.528Z",
+    "ignored": false
+  },
+  {
+    "term": "raskri\u017eje",
+    "definition": "intersection",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "City",
+    "lastReviewed": "2025-01-28T18:13:46.528Z",
+    "nextReview": "2025-01-29T18:13:46.528Z",
+    "ignored": false
+  },
+  {
+    "term": "promet",
+    "definition": "traffic",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Transportation",
+    "lastReviewed": "2025-01-28T18:13:46.528Z",
+    "nextReview": "2025-01-29T18:13:46.528Z",
+    "ignored": false
+  },
+  {
+    "term": "\u010davrljanje",
+    "definition": "chat",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Communication",
+    "lastReviewed": "2025-01-28T18:13:46.528Z",
+    "nextReview": "2025-01-29T18:13:46.528Z",
+    "ignored": false
+  },
+  {
+    "term": "preuzeti",
+    "definition": "download",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Communication",
+    "lastReviewed": "2025-01-28T18:13:46.529Z",
+    "nextReview": "2025-01-29T18:13:46.529Z",
+    "ignored": false
+  },
+  {
+    "term": "nesre\u0107a",
+    "definition": "accident",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Security",
+    "lastReviewed": "2025-01-28T18:13:46.529Z",
+    "nextReview": "2025-01-29T18:13:46.529Z",
+    "ignored": false
+  },
+  {
+    "term": "mraz",
+    "definition": "frost",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Environment",
+    "lastReviewed": "2025-01-28T18:13:46.529Z",
+    "nextReview": "2025-01-29T18:13:46.529Z",
+    "ignored": false
+  },
+  {
+    "term": "kopno",
+    "definition": "land",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Environment",
+    "lastReviewed": "2025-01-28T18:13:46.529Z",
+    "nextReview": "2025-01-29T18:13:46.529Z",
+    "ignored": false
+  },
+  {
+    "term": "livada",
+    "definition": "meadow",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Environment",
+    "lastReviewed": "2025-01-28T18:13:46.529Z",
+    "nextReview": "2025-01-29T18:13:46.529Z",
+    "ignored": false
+  },
+  {
+    "term": "dragulj",
+    "definition": "jewel",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.530Z",
+    "nextReview": "2025-01-29T18:13:46.530Z",
+    "ignored": false
+  },
+  {
+    "term": "deblo",
+    "definition": "trunk",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Plants",
+    "lastReviewed": "2025-01-28T18:13:46.530Z",
+    "nextReview": "2025-01-29T18:13:46.530Z",
+    "ignored": false
+  },
+  {
+    "term": "\u017edrijebe",
+    "definition": "foal",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.530Z",
+    "nextReview": "2025-01-29T18:13:46.530Z",
+    "ignored": false
+  },
+  {
+    "term": "lajati",
+    "definition": "bark",
+    "level": 1,
+    "difficulty": 1,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-30T19:00:49.562Z",
+    "nextReview": "2025-01-30T22:00:49.562Z",
+    "ignored": false
+  },
+  {
+    "term": "\u0161iroko",
+    "definition": "wide",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.531Z",
+    "nextReview": "2025-01-29T18:13:46.531Z",
+    "ignored": false
+  },
+  {
+    "term": "uzak",
+    "definition": "narrow",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.531Z",
+    "nextReview": "2025-01-29T18:13:46.531Z",
+    "ignored": false
+  },
+  {
+    "term": "napredak",
+    "definition": "progress",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.531Z",
+    "nextReview": "2025-01-29T18:13:46.531Z",
+    "ignored": false
+  },
+  {
+    "term": "vu\u0107i",
+    "definition": "Pull",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.532Z",
+    "nextReview": "2025-01-29T18:13:46.532Z",
+    "ignored": false
+  },
+  {
+    "term": "potra\u017eiti",
+    "definition": "to look for",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.532Z",
+    "nextReview": "2025-01-29T18:13:46.532Z",
+    "ignored": false
+  },
+  {
+    "term": "razviti",
+    "definition": "develop",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.532Z",
+    "nextReview": "2025-01-29T18:13:46.532Z",
+    "ignored": false
+  },
+  {
+    "term": "slo\u017eiti se",
+    "definition": "agree",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.534Z",
+    "nextReview": "2025-01-29T18:13:46.534Z",
+    "ignored": false
+  },
+  {
+    "term": "odnos",
+    "definition": "relationship",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.537Z",
+    "nextReview": "2025-01-29T18:13:46.537Z",
+    "ignored": false
+  },
+  {
+    "term": "nadimak",
+    "definition": "nickname",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.538Z",
+    "nextReview": "2025-01-29T18:13:46.538Z",
+    "ignored": false
+  },
+  {
+    "term": "odgovoran",
+    "definition": "responsible",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.538Z",
+    "nextReview": "2025-01-29T18:13:46.538Z",
+    "ignored": false
+  },
+  {
+    "term": "nepristojna",
+    "definition": "rude",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.538Z",
+    "nextReview": "2025-01-29T18:13:46.538Z",
+    "ignored": false
+  },
+  {
+    "term": "vitka",
+    "definition": "slender",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Describing People",
+    "lastReviewed": "2025-01-28T18:13:46.539Z",
+    "nextReview": "2025-01-29T18:13:46.539Z",
+    "ignored": false
+  },
+  {
+    "term": "pretila",
+    "definition": "obese",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Describing People",
+    "lastReviewed": "2025-01-28T18:13:46.539Z",
+    "nextReview": "2025-01-29T18:13:46.539Z",
+    "ignored": false
+  },
+  {
+    "term": "ponosan",
+    "definition": "proud",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.539Z",
+    "nextReview": "2025-01-29T18:13:46.539Z",
+    "ignored": false
+  },
+  {
+    "term": "po\u0161tovanje",
+    "definition": "respect",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.539Z",
+    "nextReview": "2025-01-29T18:13:46.539Z",
+    "ignored": false
+  },
+  {
+    "term": "nepo\u0161tovanje",
+    "definition": "disrespect",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.539Z",
+    "nextReview": "2025-01-29T18:13:46.539Z",
+    "ignored": false
+  },
+  {
+    "term": "radoznalost",
+    "definition": "curiosity",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.540Z",
+    "nextReview": "2025-01-29T18:13:46.540Z",
+    "ignored": false
+  },
+  {
+    "term": "kapak",
+    "definition": "lid",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-02-02T00:03:39.042Z",
+    "nextReview": "2025-02-02T06:03:39.042Z",
+    "ignored": false
+  },
+  {
+    "term": "upala",
+    "definition": "inflammation",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.540Z",
+    "nextReview": "2025-01-29T18:13:46.540Z",
+    "ignored": false
+  },
+  {
+    "term": "smo\u010dnica",
+    "definition": "pantry",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.540Z",
+    "nextReview": "2025-01-29T18:13:46.540Z",
+    "ignored": false
+  },
+  {
+    "term": "pisa\u0107i pribor",
+    "definition": "writers accessories",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Education",
+    "lastReviewed": "2025-01-28T18:13:46.540Z",
+    "nextReview": "2025-01-29T18:13:46.540Z",
+    "ignored": false
+  },
+  {
+    "term": "tu\u0161 za o\u010di",
+    "definition": "eye shower",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.541Z",
+    "nextReview": "2025-01-29T18:13:46.541Z",
+    "ignored": false
+  },
+  {
+    "term": "prodati",
+    "definition": "sell",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.541Z",
+    "nextReview": "2025-01-29T18:13:46.541Z",
+    "ignored": false
+  },
+  {
+    "term": "potro\u0161iti",
+    "definition": "to spend",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.541Z",
+    "nextReview": "2025-01-29T18:13:46.541Z",
+    "ignored": false
+  },
+  {
+    "term": "kamenica",
+    "definition": "oyster",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.541Z",
+    "nextReview": "2025-01-29T18:13:46.541Z",
+    "ignored": false
+  },
+  {
+    "term": "slatkovodni rak",
+    "definition": "crayfish",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.541Z",
+    "nextReview": "2025-01-29T18:13:46.541Z",
+    "ignored": false
+  },
+  {
+    "term": "varivo",
+    "definition": "stew",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.542Z",
+    "nextReview": "2025-01-29T18:13:46.542Z",
+    "ignored": false
+  },
+  {
+    "term": "posoliti",
+    "definition": "salt",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.542Z",
+    "nextReview": "2025-01-29T18:13:46.542Z",
+    "ignored": false
+  },
+  {
+    "term": "predmet",
+    "definition": "case",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.542Z",
+    "nextReview": "2025-01-29T18:13:46.542Z",
+    "ignored": false
+  },
+  {
+    "term": "tjelohranitelj",
+    "definition": "bodyguard",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Work",
+    "lastReviewed": "2025-01-28T18:13:46.542Z",
+    "nextReview": "2025-01-29T18:13:46.542Z",
+    "ignored": false
+  },
+  {
+    "term": "spasilac",
+    "definition": "lifeguard",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Work",
+    "lastReviewed": "2025-01-28T18:13:46.542Z",
+    "nextReview": "2025-01-29T18:13:46.542Z",
+    "ignored": false
+  },
+  {
+    "term": "pratiti",
+    "definition": "follow",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.543Z",
+    "nextReview": "2025-01-29T18:13:46.543Z",
+    "ignored": false
+  },
+  {
+    "term": "objesiti",
+    "definition": "hang",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.543Z",
+    "nextReview": "2025-01-29T18:13:46.543Z",
+    "ignored": false
+  },
+  {
+    "term": "skupljati",
+    "definition": "collect",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.543Z",
+    "nextReview": "2025-01-29T18:13:46.543Z",
+    "ignored": false
+  },
+  {
+    "term": "svrstati",
+    "definition": "classify",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.543Z",
+    "nextReview": "2025-01-29T18:13:46.543Z",
+    "ignored": false
+  },
+  {
+    "term": "pozvati",
+    "definition": "call",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.544Z",
+    "nextReview": "2025-01-29T18:13:46.544Z",
+    "ignored": false
+  },
+  {
+    "term": "pobijediti",
+    "definition": "win",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.544Z",
+    "nextReview": "2025-01-29T18:13:46.544Z",
+    "ignored": false
+  },
+  {
+    "term": "rijetko",
+    "definition": "rarely",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.544Z",
+    "nextReview": "2025-01-29T18:13:46.544Z",
+    "ignored": false
+  },
+  {
+    "term": "doista",
+    "definition": "really",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.545Z",
+    "nextReview": "2025-01-29T18:13:46.545Z",
+    "ignored": false
+  },
+  {
+    "term": "ispod",
+    "definition": "below",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.545Z",
+    "nextReview": "2025-01-29T18:13:46.545Z",
+    "ignored": false
+  },
+  {
+    "term": "navika",
+    "definition": "habit",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.545Z",
+    "nextReview": "2025-01-29T18:13:46.545Z",
+    "ignored": false
+  },
+  {
+    "term": "pa\u017eljiva",
+    "definition": "careful",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.546Z",
+    "nextReview": "2025-01-29T18:13:46.546Z",
+    "ignored": false
+  },
+  {
+    "term": "obrazovan",
+    "definition": "educated",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.546Z",
+    "nextReview": "2025-01-29T18:13:46.546Z",
+    "ignored": false
+  },
+  {
+    "term": "znati\u017eeljan",
+    "definition": "curious",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.546Z",
+    "nextReview": "2025-01-29T18:13:46.546Z",
+    "ignored": false
+  },
+  {
+    "term": "samilost",
+    "definition": "compassion",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.546Z",
+    "nextReview": "2025-01-29T18:13:46.546Z",
+    "ignored": false
+  },
+  {
+    "term": "\u010dast",
+    "definition": "honor",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.546Z",
+    "nextReview": "2025-01-29T18:13:46.546Z",
+    "ignored": false
+  },
+  {
+    "term": "probava",
+    "definition": "digestion",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.547Z",
+    "nextReview": "2025-01-29T18:13:46.547Z",
+    "ignored": false
+  },
+  {
+    "term": "\u010deljust",
+    "definition": "jaw",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-02-02T00:04:00.547Z",
+    "nextReview": "2025-02-02T06:04:00.547Z",
+    "ignored": false
+  },
+  {
+    "term": "donja \u010deljust",
+    "definition": "lower jaw",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Body",
+    "lastReviewed": "2025-01-28T18:13:46.547Z",
+    "nextReview": "2025-01-29T18:13:46.547Z",
+    "ignored": false
+  },
+  {
+    "term": "stajati",
+    "definition": "stand",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.547Z",
+    "nextReview": "2025-01-29T18:13:46.547Z",
+    "ignored": false
+  },
+  {
+    "term": "upala slijepog crijeva",
+    "definition": "appendicitis",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.547Z",
+    "nextReview": "2025-01-29T18:13:46.547Z",
+    "ignored": false
+  },
+  {
+    "term": "zarazan",
+    "definition": "contagious",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Health",
+    "lastReviewed": "2025-01-28T18:13:46.548Z",
+    "nextReview": "2025-01-29T18:13:46.548Z",
+    "ignored": false
+  },
+  {
+    "term": "slu\u0161alice",
+    "definition": "headset",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.548Z",
+    "nextReview": "2025-01-29T18:13:46.548Z",
+    "ignored": false
+  },
+  {
+    "term": "posu\u0111e",
+    "definition": "vessels",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.548Z",
+    "nextReview": "2025-01-29T18:13:46.548Z",
+    "ignored": false
+  },
+  {
+    "term": "bojica",
+    "definition": "crayon",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Education",
+    "lastReviewed": "2025-01-30T18:59:51.904Z",
+    "nextReview": "2025-01-31T00:59:51.904Z",
+    "ignored": false
+  },
+  {
+    "term": "vjetrenja\u010da",
+    "definition": "windmill",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.549Z",
+    "nextReview": "2025-01-29T18:13:46.549Z",
+    "ignored": false
+  },
+  {
+    "term": "regenerator",
+    "definition": "regenerator",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.549Z",
+    "nextReview": "2025-01-29T18:13:46.549Z",
+    "ignored": false
+  },
+  {
+    "term": "brava",
+    "definition": "lock",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.549Z",
+    "nextReview": "2025-01-29T18:13:46.549Z",
+    "ignored": false
+  },
+  {
+    "term": "oznaka s cijenom",
+    "definition": "price tag",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Shopping",
+    "lastReviewed": "2025-01-28T18:13:46.550Z",
+    "nextReview": "2025-01-29T18:13:46.550Z",
+    "ignored": false
+  },
+  {
+    "term": "jakobova kapica",
+    "definition": "Jacob's cap",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.551Z",
+    "nextReview": "2025-01-29T18:13:46.551Z",
+    "ignored": false
+  },
+  {
+    "term": "doda\u0107i jelima",
+    "definition": "food additives",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.552Z",
+    "nextReview": "2025-01-29T18:13:46.552Z",
+    "ignored": false
+  },
+  {
+    "term": "pitko",
+    "definition": "drinkable",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.553Z",
+    "nextReview": "2025-01-29T18:13:46.553Z",
+    "ignored": false
+  },
+  {
+    "term": "nedavno",
+    "definition": "recently",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.553Z",
+    "nextReview": "2025-01-29T18:13:46.553Z",
+    "ignored": false
+  },
+  {
+    "term": "dana\u0161nje doba",
+    "definition": "today's era",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.554Z",
+    "nextReview": "2025-01-29T18:13:46.554Z",
+    "ignored": false
+  },
+  {
+    "term": "djelomi\u010dno",
+    "definition": "partially",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.554Z",
+    "nextReview": "2025-01-29T18:13:46.554Z",
+    "ignored": false
+  },
+  {
+    "term": "iznena\u0111uju\u0107e",
+    "definition": "surprisingly",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.554Z",
+    "nextReview": "2025-01-29T18:13:46.554Z",
+    "ignored": false
+  },
+  {
+    "term": "gotovo",
+    "definition": "done",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.555Z",
+    "nextReview": "2025-01-29T18:13:46.555Z",
+    "ignored": false
+  },
+  {
+    "term": "\u0161tovi\u0161e",
+    "definition": "hundreds",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.555Z",
+    "nextReview": "2025-01-29T18:13:46.555Z",
+    "ignored": false
+  },
+  {
+    "term": "ionako",
+    "definition": "already",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.555Z",
+    "nextReview": "2025-01-29T18:13:46.555Z",
+    "ignored": false
+  },
+  {
+    "term": "dok",
+    "definition": "while",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.556Z",
+    "nextReview": "2025-01-29T18:13:46.556Z",
+    "ignored": false
+  },
+  {
+    "term": "oba",
+    "definition": "both",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Pronouns",
+    "lastReviewed": "2025-01-28T18:13:46.556Z",
+    "nextReview": "2025-01-29T18:13:46.556Z",
+    "ignored": false
+  },
+  {
+    "term": "svaki pojedina\u010dno",
+    "definition": "each individually",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Pronouns",
+    "lastReviewed": "2025-01-28T18:13:46.556Z",
+    "nextReview": "2025-01-29T18:13:46.556Z",
+    "ignored": false
+  },
+  {
+    "term": "praunuk",
+    "definition": "great grandson",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.556Z",
+    "nextReview": "2025-01-29T18:13:46.556Z",
+    "ignored": false
+  },
+  {
+    "term": "porijeklo",
+    "definition": "origin",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.556Z",
+    "nextReview": "2025-01-29T18:13:46.556Z",
+    "ignored": false
+  },
+  {
+    "term": "zaru\u010dnica",
+    "definition": "fianc\u00e9e",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.557Z",
+    "nextReview": "2025-01-29T18:13:46.557Z",
+    "ignored": false
+  },
+  {
+    "term": "postojati",
+    "definition": "exist",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.557Z",
+    "nextReview": "2025-01-29T18:13:46.557Z",
+    "ignored": false
+  },
+  {
+    "term": "njegovati",
+    "definition": "cherish",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.557Z",
+    "nextReview": "2025-01-29T18:13:46.557Z",
+    "ignored": false
+  },
+  {
+    "term": "prili\u010dno",
+    "definition": "quite",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.557Z",
+    "nextReview": "2025-01-29T18:13:46.557Z",
+    "ignored": false
+  },
+  {
+    "term": "dio",
+    "definition": "part",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.557Z",
+    "nextReview": "2025-01-29T18:13:46.557Z",
+    "ignored": false
+  },
+  {
+    "term": "izbjeglica",
+    "definition": "refugee",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.558Z",
+    "nextReview": "2025-01-29T18:13:46.558Z",
+    "ignored": false
+  },
+  {
+    "term": "porezni obveznik",
+    "definition": "taxpayer",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "People",
+    "lastReviewed": "2025-01-28T18:13:46.558Z",
+    "nextReview": "2025-01-29T18:13:46.558Z",
+    "ignored": false
+  },
+  {
+    "term": "po\u010detak",
+    "definition": "beginning",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.558Z",
+    "nextReview": "2025-01-29T18:13:46.558Z",
+    "ignored": false
+  },
+  {
+    "term": "nedostatak",
+    "definition": "lack",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.558Z",
+    "nextReview": "2025-01-29T18:13:46.558Z",
+    "ignored": false
+  },
+  {
+    "term": "povik",
+    "definition": "outcry",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.558Z",
+    "nextReview": "2025-01-29T18:13:46.558Z",
+    "ignored": false
+  },
+  {
+    "term": "brisati",
+    "definition": "delete",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.558Z",
+    "nextReview": "2025-01-29T18:13:46.558Z",
+    "ignored": false
+  },
+  {
+    "term": "odobriti",
+    "definition": "approve",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.559Z",
+    "nextReview": "2025-01-29T18:13:46.559Z",
+    "ignored": false
+  },
+  {
+    "term": "ogovarati",
+    "definition": "to gossip",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.559Z",
+    "nextReview": "2025-01-29T18:13:46.559Z",
+    "ignored": false
+  },
+  {
+    "term": "cviliti",
+    "definition": "whine",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.559Z",
+    "nextReview": "2025-01-29T18:13:46.559Z",
+    "ignored": false
+  },
+  {
+    "term": "odsko\u010diti",
+    "definition": "bounce off",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.559Z",
+    "nextReview": "2025-01-29T18:13:46.559Z",
+    "ignored": false
+  },
+  {
+    "term": "odbiti",
+    "definition": "refuse",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.560Z",
+    "nextReview": "2025-01-29T18:13:46.560Z",
+    "ignored": false
+  },
+  {
+    "term": "osvijetliti",
+    "definition": "illuminate",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.560Z",
+    "nextReview": "2025-01-29T18:13:46.560Z",
+    "ignored": false
+  },
+  {
+    "term": "ujediniti",
+    "definition": "unite",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.561Z",
+    "nextReview": "2025-01-29T18:13:46.561Z",
+    "ignored": false
+  },
+  {
+    "term": "\u010duvati",
+    "definition": "guard",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.561Z",
+    "nextReview": "2025-01-29T18:13:46.561Z",
+    "ignored": false
+  },
+  {
+    "term": "patiti",
+    "definition": "suffer",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.561Z",
+    "nextReview": "2025-01-29T18:13:46.561Z",
+    "ignored": false
+  },
+  {
+    "term": "pobli\u017ee",
+    "definition": "closer",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.561Z",
+    "nextReview": "2025-01-29T18:13:46.561Z",
+    "ignored": false
+  },
+  {
+    "term": "prema",
+    "definition": "according to",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.562Z",
+    "nextReview": "2025-01-29T18:13:46.562Z",
+    "ignored": false
+  },
+  {
+    "term": "na\u010delo",
+    "definition": "principle",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.562Z",
+    "nextReview": "2025-01-29T18:13:46.562Z",
+    "ignored": false
+  },
+  {
+    "term": "tvorevina",
+    "definition": "creation",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.562Z",
+    "nextReview": "2025-01-29T18:13:46.562Z",
+    "ignored": false
+  },
+  {
+    "term": "dostatno",
+    "definition": "enough",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adverbs",
+    "lastReviewed": "2025-01-28T18:13:46.562Z",
+    "nextReview": "2025-01-29T18:13:46.562Z",
+    "ignored": false
+  },
+  {
+    "term": "nedostatno",
+    "definition": "insufficient",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.562Z",
+    "nextReview": "2025-01-29T18:13:46.562Z",
+    "ignored": false
+  },
+  {
+    "term": "kri\u0161ka",
+    "definition": "slice",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.563Z",
+    "nextReview": "2025-01-29T18:13:46.563Z",
+    "ignored": false
+  },
+  {
+    "term": "gutljaj",
+    "definition": "sip",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.563Z",
+    "nextReview": "2025-01-29T18:13:46.563Z",
+    "ignored": false
+  },
+  {
+    "term": "slastan",
+    "definition": "tasty",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.563Z",
+    "nextReview": "2025-01-29T18:13:46.563Z",
+    "ignored": false
+  },
+  {
+    "term": "trener",
+    "definition": "coach",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Work",
+    "lastReviewed": "2025-01-28T18:13:46.563Z",
+    "nextReview": "2025-01-29T18:13:46.563Z",
+    "ignored": false
+  },
+  {
+    "term": "\u0161vedski stol",
+    "definition": "buffet table",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Food & Drinks",
+    "lastReviewed": "2025-01-28T18:13:46.563Z",
+    "nextReview": "2025-01-29T18:13:46.563Z",
+    "ignored": false
+  },
+  {
+    "term": "kip",
+    "definition": "statue",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Culture",
+    "lastReviewed": "2025-01-28T18:13:46.563Z",
+    "nextReview": "2025-01-29T18:13:46.563Z",
+    "ignored": false
+  },
+  {
+    "term": "memorijski \u0161tapi\u0107",
+    "definition": "memory stick",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.564Z",
+    "nextReview": "2025-01-29T18:13:46.564Z",
+    "ignored": false
+  },
+  {
+    "term": "trupac",
+    "definition": "a log",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.564Z",
+    "nextReview": "2025-01-29T18:13:46.564Z",
+    "ignored": false
+  },
+  {
+    "term": "roda",
+    "definition": "genus",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.564Z",
+    "nextReview": "2025-01-29T18:13:46.564Z",
+    "ignored": false
+  },
+  {
+    "term": "kopito",
+    "definition": "hoof",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Animals",
+    "lastReviewed": "2025-01-28T18:13:46.565Z",
+    "nextReview": "2025-01-29T18:13:46.565Z",
+    "ignored": false
+  },
+  {
+    "term": "pravokutnik",
+    "definition": "rectangle",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.565Z",
+    "nextReview": "2025-01-29T18:13:46.565Z",
+    "ignored": false
+  },
+  {
+    "term": "dozvoliti",
+    "definition": "allow",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.565Z",
+    "nextReview": "2025-01-29T18:13:46.565Z",
+    "ignored": false
+  },
+  {
+    "term": "kretati",
+    "definition": "to move",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.565Z",
+    "nextReview": "2025-01-29T18:13:46.565Z",
+    "ignored": false
+  },
+  {
+    "term": "krpa",
+    "definition": "cloth",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.566Z",
+    "nextReview": "2025-01-29T18:13:46.566Z",
+    "ignored": false
+  },
+  {
+    "term": "sjekira",
+    "definition": "ax",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.567Z",
+    "nextReview": "2025-01-29T18:13:46.567Z",
+    "ignored": false
+  },
+  {
+    "term": "pila",
+    "definition": "saw",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.567Z",
+    "nextReview": "2025-01-29T18:13:46.567Z",
+    "ignored": false
+  },
+  {
+    "term": "u\u010denik",
+    "definition": "disciple",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Education",
+    "lastReviewed": "2025-01-28T18:13:46.570Z",
+    "nextReview": "2025-01-29T18:13:46.570Z",
+    "ignored": false
+  },
+  {
+    "term": "izabrati",
+    "definition": "choose",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.570Z",
+    "nextReview": "2025-01-29T18:13:46.570Z",
+    "ignored": false
+  },
+  {
+    "term": "nestrpljiva",
+    "definition": "impatient",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-01-28T18:13:46.571Z",
+    "nextReview": "2025-01-29T18:13:46.571Z",
+    "ignored": false
+  },
+  {
+    "term": "prestra\u0161ena",
+    "definition": "scared",
+    "level": 2,
+    "difficulty": 0,
+    "niveau": "Adjectives",
+    "lastReviewed": "2025-02-02T00:02:24.584Z",
+    "nextReview": "2025-02-02T06:02:24.584Z",
+    "ignored": false
+  },
+  {
+    "term": "stambena zgrada",
+    "definition": "residential building",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "House",
+    "lastReviewed": "2025-01-28T18:13:46.571Z",
+    "nextReview": "2025-01-29T18:13:46.571Z",
+    "ignored": false
+  },
+  {
+    "term": "zamrznuti",
+    "definition": "freeze",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.571Z",
+    "nextReview": "2025-01-29T18:13:46.571Z",
+    "ignored": false
+  },
+  {
+    "term": "obu\u0107i se",
+    "definition": "get dressed",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Verbs",
+    "lastReviewed": "2025-01-28T18:13:46.572Z",
+    "nextReview": "2025-01-29T18:13:46.572Z",
+    "ignored": false
+  },
+  {
+    "term": "dno",
+    "definition": "bottom",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.572Z",
+    "nextReview": "2025-01-29T18:13:46.572Z",
+    "ignored": false
+  },
+  {
+    "term": "prednost",
+    "definition": "advantage",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.572Z",
+    "nextReview": "2025-01-29T18:13:46.572Z",
+    "ignored": false
+  },
+  {
+    "term": "poslu\u0161nost",
+    "definition": "obedience",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.572Z",
+    "nextReview": "2025-01-29T18:13:46.572Z",
+    "ignored": false
+  },
+  {
+    "term": "naga\u0111anje",
+    "definition": "guesswork",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Nouns",
+    "lastReviewed": "2025-01-28T18:13:46.572Z",
+    "nextReview": "2025-01-29T18:13:46.572Z",
+    "ignored": false
+  },
+  {
+    "term": "me\u0111u",
+    "definition": "among",
+    "level": 1,
+    "difficulty": 0,
+    "niveau": "Linking Words",
+    "lastReviewed": "2025-01-28T18:13:46.572Z",
+    "nextReview": "2025-01-29T18:13:46.572Z",
+    "ignored": false
+  }
+]
